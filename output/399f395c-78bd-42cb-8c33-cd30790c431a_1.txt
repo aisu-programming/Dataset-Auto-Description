@@ -1,0 +1,24 @@
+Instruction:
+Answer the questions while using the input and context.
+The input includes dataset title, hearders, a random sample, and profiler result of the large dataset.
+
+Input:
+Dataset title: Anemometer Data (Wind Speed, Direction) for Watertown, South Dakota (Nov 2002 - Jan, 2003)
+Dataset sample: 
+Time Stamp,Average Wind Speed,Standard Deviation,Average Wind Direction
+11/29/2002 20:40,27.8,2.67,338
+1/9/2003 20:30,28.5,2.62,315
+1/10/2003 23:50,2.1,0.43,315
+12/12/2002 3:10,7.5,0.59,315
+11/6/2002 18:30,7.5,0.48,113
+11/4/2002 20:50,17.0,2.51,158
+12/18/2002 23:10,17.7,2.78,203
+11/6/2002 21:50,15.2,1.98,180
+11/10/2002 4:40,17.0,2.46,293
+12/17/2002 10:20,20.8,2.19,158
+
+Question:
+Describe the dataset in sentences.
+
+Answer:
+The dataset is about wind speed and direction for Watertown, South Dakota from November 2002 to January 2003.

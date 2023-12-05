@@ -1,0 +1,40 @@
+Instruction:
+Answer the questions while using the input and context.
+The input includes dataset title, hearders, a random sample, and profiler result of the large dataset. 
+
+Input:
+Dataset title: Anemometer Data (Wind Speed, Direction) for Watertown, South Dakota (Nov 2002 - Jan, 2003)
+Dataset sample: 
+Time Stamp,Average Wind Speed,Standard Deviation,Average Wind Direction
+12/12/2002 4:10,7.4,0.43,293
+12/23/2002 18:30,10.4,0.86,315
+11/29/2002 15:30,38.7,3.32,315
+12/24/2002 16:10,9.3,0.59,315
+12/14/2002 20:50,5.4,0.64,225
+12/31/2002 12:30,10.6,1.28,135
+12/20/2002 15:10,26.3,2.99,315
+11/3/2002 16:50,21.3,2.03,338
+12/13/2002 2:40,3.8,0.43,225
+1/4/2003 4:50,13.2,0.8,270
+
+Column profiling: 
+Column Time Stamp is a time column with temporal resolution in minute. The temporal coverage is from 2002-11-02 to 2003-01-13. 
+Column Average Wind Speed is a http://schema.org/Float. The range of values is from 0 to 33.3. 
+Column Standard Deviation is a http://schema.org/Float. The range of values is from 0 to 3.8. 
+Column Average Wind Direction is a http://schema.org/Integer. There are 16 distinct values. The range of values is from 0 to 338.0. 
+
+Question:
+Considering the following nine aspects:
+1. Describe the dataset in one sentence?
+2. What does the dataset look like?
+3. Can you group the headers?
+4. What are the value types and value ranges for the most important headers?
+5. Where is the data from?
+6. In what format or in what way does the dataset mention time?
+7. In what format or in what way does the dataset mention location?
+8. Is there anything unclear about the data, or do you have reason to doubt the quality?
+9. Is there anything that you can point out or analyse in more detail?
+Describe the dataset answering the nine aspects above in one compelete and coherent paragraph.
+
+Answer:
+The dataset is a time series of wind speed and direction for Watertown, South Dakota from November 2002 to January 2003. The data is collected every minute with an average wind speed of 10.4 mph and standard deviation of 0.86 mph. The dataset has a total of 79 observations.
