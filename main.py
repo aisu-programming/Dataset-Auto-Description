@@ -79,9 +79,9 @@ The dataset"""
                                           "--batch-size", "256",
                                           "--temp", "0.2",
                                           "--n-gpu-layers", "64",
-                                        #   "--model", "./llama.cpp/models/llama-2-7b/ggml-model-f16.gguf",
-                                          "--model", "./llama.cpp/models/llama-2-13b/ggml-model-f16.gguf",
-                                          # "--model", "./llama.cpp/models/CodeLlama-34b/ggml-model-q5_1.gguf",
+                                          # "--model", "./llama.cpp/models/llama-2-7b/ggml-model-f16.gguf",
+                                          # "--model", "./llama.cpp/models/llama-2-13b/ggml-model-f16.gguf",
+                                          "--model", "./llama.cpp/models/CodeLlama-34b/ggml-model-q5_1.gguf",
                                           # "--repeat_penalty", "1.2",
                                           # "--repeat-last-n", "-1",
                                           # "--no-penalize-nl",
@@ -105,7 +105,7 @@ def main():
     filename_sample          = load_sample_txt("data/task1data/task1_sample.txt")
     filename_sample_profiler = load_sample_txt("data/task1data/task1_sample_profiler.txt")
 
-    os.makedirs("output", exist_ok=True)
+    os.makedirs("output/task1_llama34b", exist_ok=True)
     for (filename, sample), (_, sample_with_profiler) in zip(filename_sample, filename_sample_profiler):
         # sample, profiling = split_sample_and_profiling(sample_profiling)
         my_command.filename             = filename
@@ -113,8 +113,13 @@ def main():
         my_command.sample_with_profiler = sample_with_profiler
 
         for settings in range(3):
-            with open(f"output/log/{my_command.output_filename(settings)}.txt", 'w') as output_file:
-                subprocess.call(stdout=output_file, args=my_command.command(settings))
+            with open(f"output/task1_llama34b/{my_command.output_filename(settings)}.txt", 'w') as log:
+                subprocess.call(stdout=log, args=my_command.command(settings))
+
+            with open(f"output/task1_llama34b_p{settings+1}.txt", 'a') as description_file:
+                with open(f"output/task1_llama34b/{my_command.output_filename(settings)}.txt", 'r') as log:
+                    description = log.read().split("Answer:\n")[1][:-1]
+                    description_file.write(f'{filename}\t{description}\n')
 
 
 
