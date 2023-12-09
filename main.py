@@ -34,7 +34,7 @@ Question:
 Describe the dataset in one complete and coherent paragraph.
 
 Answer:
-The """
+The dataset"""
 
         elif prompt_id == 1:
             return \
@@ -48,7 +48,7 @@ Question:
 Describe the dataset in one complete and coherent paragraph.
 
 Answer:
-The """
+The dataset"""
 
         elif prompt_id == 2:
             return \
@@ -71,14 +71,14 @@ Considering the following eight aspects:
 Describe the dataset covering the eight aspects above in one complete and coherent paragraph.
 
 Answer:
-The """
+The dataset"""
 
 
     def command(self, prompt_id) -> list:
         assert prompt_id in list(range(3))
         return [ r"./llama.cpp/bin/main", "--reverse-prompt", "\n",
                                           # "--interactive", "--color",
-                                          "--ctx-size", "2048",
+                                          "--ctx-size", "4096",
                                           "--n-predict", "-1",
                                           "--threads", "24",
                                           "--batch-size", "256",
@@ -105,26 +105,31 @@ def load_sample_txt(filename):
 
 def main():
 
-    for task_id in range(2):
+    for task_id in range(1, 2):
         filename_sample          = load_sample_txt(f"data/task{task_id+1}_sample.txt")
         filename_sample_profiler = load_sample_txt(f"data/task{task_id+1}_sample_profiler.txt")
 
         for model_id in range(3):
-            saving_dir  = "output/"
-            saving_dir += [ f"task{task_id+1}_llama7b", f"task{task_id+1}_llama13b", f"task{task_id+1}_llama34b" ][model_id]
+
+            if model_id <= 0: continue
+            saving_dir  = f"output/task{task_id+1}_"
+            saving_dir += [ "llama7b", "llama13b", "llama34b" ][model_id]
             os.makedirs(saving_dir, exist_ok=True)
             
-            for (filename, sample), (_, sample_with_profiler) in zip(filename_sample, filename_sample_profiler):
+            for file_id, ((filename, sample), (_, sample_with_profiler)) in \
+                enumerate(zip(filename_sample, filename_sample_profiler)):
+
+                if file_id <= 2: continue
                 my_command = LlamaCommand(model_id, filename, sample, sample_with_profiler)
 
-                for prompt_id in range(3):
+                for prompt_id in [ 2, 1, 0 ]:
                     with open(f"{saving_dir}/{my_command.output_filename(prompt_id)}.txt", 'w') as log:
                         subprocess.call(stdout=log, args=my_command.command(prompt_id))
-
-                    with open(f"{saving_dir}_p{prompt_id+1}.txt", 'a') as description_file:
+                    
+                    with open(f"{saving_dir}_p{prompt_id+1}.txt", 'w' if file_id==0 else 'a') as description_file:
                         with open(f"{saving_dir}/{my_command.output_filename(prompt_id)}.txt", 'r') as log:
                             description = log.read().split("Answer:\n")[1][:-1]
-                            description_file.write(f'{filename}\t{description}\n')
+                            description_file.write(f"{filename}\t{description}\n")
 
 
 
