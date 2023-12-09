@@ -1,5 +1,6 @@
 raw_data
 data
 output/*/*
+output_old/*/*
 *.pyc
 test*
