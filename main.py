@@ -105,14 +105,13 @@ def load_sample_txt(filename):
 
 def main():
 
-    sample_file_list = [ "data/task1data/task1_sample", "data/task1data/task2_sample" ]
-    for sample_file in sample_file_list:
-        filename_sample          = load_sample_txt(f"{sample_file}.txt")
-        filename_sample_profiler = load_sample_txt(f"{sample_file}_profiler.txt")
+    for task_id in range(2):
+        filename_sample          = load_sample_txt(f"data/task{task_id+1}_sample.txt")
+        filename_sample_profiler = load_sample_txt(f"data/task{task_id+1}_sample_profiler.txt")
 
         for model_id in range(3):
             saving_dir  = "output/"
-            saving_dir += [ "task1_llama7b", "task1_llama13b", "task1_llama34b" ][model_id]
+            saving_dir += [ f"task{task_id+1}_llama7b", f"task{task_id+1}_llama13b", f"task{task_id+1}_llama34b" ][model_id]
             os.makedirs(saving_dir, exist_ok=True)
             
             for (filename, sample), (_, sample_with_profiler) in zip(filename_sample, filename_sample_profiler):

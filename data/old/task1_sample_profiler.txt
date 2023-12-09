@@ -1,0 +1,200 @@
+"399f395c-78bd-42cb-8c33-cd30790c431a", "Dataset title: Anemometer Data (Wind Speed, Direction) for Watertown, South Dakota (Nov 2002 - Jan, 2003)
+Dataset sample: 
+Time Stamp,Average Wind Speed,Standard Deviation,Average Wind Direction
+12/12/2002 4:10,7.4,0.43,293
+12/23/2002 18:30,10.4,0.86,315
+11/29/2002 15:30,38.7,3.32,315
+12/24/2002 16:10,9.3,0.59,315
+12/14/2002 20:50,5.4,0.64,225
+12/31/2002 12:30,10.6,1.28,135
+12/20/2002 15:10,26.3,2.99,315
+11/3/2002 16:50,21.3,2.03,338
+12/13/2002 2:40,3.8,0.43,225
+1/4/2003 4:50,13.2,0.8,270
+
+Column profiling: 
+Column Time Stamp is a time column with temporal resolution in minute. The temporal coverage is from 2002-11-02 to 2003-01-13. 
+Column Average Wind Speed is a http://schema.org/Float. The range of values is from 0 to 33.3. 
+Column Standard Deviation is a http://schema.org/Float. The range of values is from 0 to 3.8. 
+Column Average Wind Direction is a http://schema.org/Integer. There are 16 distinct values. The range of values is from 0 to 338.0. 
+"
+"e440d9a3-998d-4266-b452-61e0f4d0ffe7", "Dataset title: Anemometer Data (Wind Speed, Direction) for Beresford, South Dakota (Apr - May, 2006)
+Dataset sample: 
+Time Stamp,Average Wind Speed,Standard Deviation,Average Wind Direction
+4/25/2006 15:00,7.1,0.53,68
+4/4/2006 22:20,14.0,2.25,338
+4/30/2006 11:30,20.6,2.25,113
+4/19/2006 12:30,20.5,2.46,68
+4/16/2006 4:30,13.2,1.5,225
+4/17/2006 16:50,30.0,3.64,270
+4/27/2006 5:20,13.8,1.92,315
+4/14/2006 11:10,17.4,1.55,293
+4/21/2006 12:10,5.9,0.7,68
+4/22/2006 16:00,13.5,1.23,315
+
+Column profiling: 
+Column Time Stamp is a time column with temporal resolution in minute. The temporal coverage is from 2006-04-03 to 2006-04-30. 
+Column Average Wind Speed is a http://schema.org/Float. The range of values is from 0 to 33.5. 
+Column Standard Deviation is a http://schema.org/Float. The range of values is from 0 to 4.49. 
+Column Average Wind Direction is a http://schema.org/Integer. There are 16 distinct values. The range of values is from 0 to 338.0. 
+"
+"7dfd1700-2c7f-4aae-9c26-e26d483c924b", "Dataset title: Anemometer Data (Wind Speed, Direction) for Beresford, South Dakota (July, 2006)
+Dataset sample: 
+Time Stamp,Average Wind Speed,Standard Deviation,Average Wind Direction
+7/18/2006 12:10,16.1,2.09,293
+7/20/2006 12:10,12.5,2.19,203
+7/14/2006 19:00,13.2,1.6,338
+7/27/2006 4:50,11.1,1.71,0
+7/28/2006 2:40,19.9,2.83,338
+7/21/2006 6:20,12.1,1.71,180
+7/29/2006 12:30,13.9,1.98,315
+7/24/2006 22:00,5.1,1.34,270
+7/16/2006 9:20,13.7,2.14,315
+7/24/2006 16:40,16.3,1.92,315
+
+Column profiling: 
+Column Time Stamp is a time column with temporal resolution in minute. The temporal coverage is from 2006-07-10 to 2006-07-31. 
+Column Average Wind Speed is a http://schema.org/Float. The range of values is from 0 to 22.3. 
+Column Standard Deviation is a http://schema.org/Float. The range of values is from 0 to 3.69. 
+Column Average Wind Direction is a http://schema.org/Integer. There are 16 distinct values. The range of values is from 0 to 338.0. 
+"
+"b6f420e2-0a2d-4377-9501-4f8b50c9dfdf", "Dataset title: Anemometer Data (Wind Speed, Direction) for Watertown, South Dakota (Jan - Mar, 2003)
+Dataset sample: 
+Time Stamp,Average Wind Speed,Standard Deviation,Average Wind Direction
+3/15/2003 5:40,17.4,2.3,180
+2/21/2003 5:40,8.3,1.66,23
+1/24/2003 21:40,5.5,0.8,0
+3/16/2003 21:30,8.9,0.59,68
+1/23/2003 5:50,6.4,0.59,0
+3/14/2003 10:40,13.5,1.44,180
+2/6/2003 21:20,7.8,0.53,68
+2/21/2003 22:30,15.5,2.25,23
+2/5/2003 14:40,9.6,0.75,68
+1/30/2003 19:40,11.1,1.23,203
+
+Column profiling: 
+Column Time Stamp is a time column with temporal resolution in minute. The temporal coverage is from 2003-01-15 to 2003-03-17. 
+Column Average Wind Speed is a http://schema.org/Float. The range of values is from 0 to 29.8. 
+Column Standard Deviation is a http://schema.org/Float. The range of values is from 0 to 3.26. 
+Column Average Wind Direction is a http://schema.org/Integer. There are 16 distinct values. The range of values is from 0 to 338.0. 
+"
+"463faeae-4f06-48d1-b66b-b89fda7fc75e", "Dataset title: Anemometer Data (Wind Speed, Direction) for Beresford, South Dakota (Dec, 2005 - Jan, 2006)
+Dataset sample: 
+Time Stamp,Average Wind Speed,Standard Deviation,Average Wind Direction
+12/13/2005 10:50,22.0,3.26,315
+12/21/2005 18:20,13.6,1.12,338
+12/13/2005 14:00,20.1,2.41,315
+12/4/2005 21:40,11.3,0.59,90
+12/6/2005 3:00,5.9,0.48,113
+1/2/2006 9:30,5.8,1.12,225
+12/15/2005 10:30,29.0,2.99,135
+12/17/2005 10:50,17.0,1.44,113
+12/3/2005 13:50,9.5,1.23,135
+12/6/2005 10:10,8.8,0.59,90
+
+Column profiling: 
+Column Time Stamp is a time column with temporal resolution in minute. The temporal coverage is from 2005-12-02 to 2006-01-02. 
+Column Average Wind Speed is a http://schema.org/Float. The range of values is from 0 to 29.8. 
+Column Standard Deviation is a http://schema.org/Float. The range of values is from 0 to 3.21. 
+Column Average Wind Direction is a http://schema.org/Integer. There are 16 distinct values. The range of values is from 0 to 338.0. 
+"
+"67577a08-2814-414e-8eb4-47bacb190061", "Dataset title: Anemometer Data (Wind Speed, Direction) for Beresford, South Dakota (Mar - Apr, 2006)
+Dataset sample: 
+Time Stamp,Average Wind Speed,Standard Deviation,Average Wind Direction
+3/16/2006 14:40,6.2,0.8,225
+3/3/2006 12:50,18.1,2.67,293
+3/10/2006 18:30,20.3,2.51,90
+3/20/2006 16:50,19.6,1.76,225
+3/27/2006 7:40,3.3,0.59,158
+3/16/2006 14:00,4.8,0.48,203
+3/13/2006 14:20,5.9,0.53,113
+3/7/2006 13:30,8.4,0.75,135
+3/31/2006 15:20,6.5,0.8,225
+3/31/2006 22:10,11.3,2.03,315
+
+Column profiling: 
+Column Time Stamp is a time column with temporal resolution in minute. The temporal coverage is from 2006-03-02 to 2006-04-02. 
+Column Average Wind Speed is a http://schema.org/Float. The range of values is from 0 to 33.9. 
+Column Standard Deviation is a http://schema.org/Float. The range of values is from 0 to 3.9. 
+Column Average Wind Direction is a http://schema.org/Integer. There are 16 distinct values. The range of values is from 0 to 338.0. 
+"
+"11083557-d121-4479-8371-180d2c3eef63", "Dataset title: Anemometer Data (Wind Speed, Direction) for Beresford, South Dakota (June - July, 2006)
+Dataset sample: 
+Time Stamp,Average Wind Speed,Standard Deviation,Average Wind Direction
+6/9/2006 14:40,32.2,3.9,248
+6/21/2006 18:00,0.0,0.0,180
+6/26/2006 7:00,3.3,0.37,113
+6/14/2006 11:50,22.4,3.21,315
+6/18/2006 20:10,10.2,1.55,180
+6/22/2006 15:20,7.6,0.75,338
+6/27/2006 15:00,5.6,0.43,270
+6/14/2006 8:50,23.7,3.58,315
+6/17/2006 5:40,8.3,1.34,135
+6/16/2006 6:20,22.4,2.57,270
+
+Column profiling: 
+Column Time Stamp is a time column with temporal resolution in minute. The temporal coverage is from 2006-06-01 to 2006-07-09. 
+Column Average Wind Speed is a http://schema.org/Float. The range of values is from 0 to 32.8. 
+Column Standard Deviation is a http://schema.org/Float. The range of values is from 0 to 4.38. 
+Column Average Wind Direction is a http://schema.org/Integer. There are 16 distinct values. The range of values is from 0 to 338.0. 
+"
+"ce45103a-2a0a-4be9-9fe0-ceca48712068", "Dataset title: Anemometer Data (Wind Speed, Direction) for Watertown, South Dakota (Aug, 2003)
+Dataset sample: 
+Time Stamp,Average Wind Speed,Standard Deviation,Average Wind Direction
+8/15/2003 2:10,10.2,1.28,180
+8/31/2003 1:20,5.3,0.91,180
+8/11/2003 7:00,1.2,0.64,68
+8/2/2003 1:40,5.5,0.64,338
+8/24/2003 16:20,10.5,1.5,113
+8/2/2003 10:40,18.4,2.25,0
+8/2/2003 9:20,16.2,2.51,23
+8/25/2003 21:30,4.5,0.64,180
+8/25/2003 4:00,7.8,0.91,113
+8/4/2003 17:50,8.7,0.96,135
+
+Column profiling: 
+Column Time Stamp is a time column with temporal resolution in minute. The temporal coverage is from 2003-08-01 to 2003-09-01. 
+Column Average Wind Speed is a http://schema.org/Float. The range of values is from 0 to 22.0. 
+Column Standard Deviation is a http://schema.org/Float. The range of values is from 0 to 3.64. 
+Column Average Wind Direction is a http://schema.org/Integer. There are 16 distinct values. The range of values is from 0 to 338.0. 
+"
+"4f94168e-2f48-4192-a246-f60b2f3b23d8", "Dataset title: Anemometer Data (Wind Speed, Direction) for Watertown, South Dakota (July, 2003)
+Dataset sample: 
+Time Stamp,Average Wind Speed,Standard Deviation,Average Wind Direction
+7/22/2003 4:10,6.1,0.64,338
+7/10/2003 11:30,14.4,2.99,315
+7/10/2003 13:10,16.9,2.73,315
+7/5/2003 5:30,9.3,1.6,180
+7/6/2003 6:00,3.6,0.53,203
+7/16/2003 12:50,20.9,3.53,225
+7/15/2003 19:30,3.3,0.32,180
+7/2/2003 23:40,14.3,1.82,0
+7/13/2003 17:10,20.6,3.9,180
+7/22/2003 19:40,7.4,0.48,90
+
+Column profiling: 
+Column Time Stamp is a time column with temporal resolution in minute. The temporal coverage is from 2003-07-01 to 2003-07-31. 
+Column Average Wind Speed is a http://schema.org/Float. The range of values is from 0 to 27.6. 
+Column Standard Deviation is a http://schema.org/Float. The range of values is from 0 to 3.96. 
+Column Average Wind Direction is a http://schema.org/Integer. There are 16 distinct values. The range of values is from 0 to 338.0. 
+"
+"4c344d31-fe88-4f6d-945f-b2469b667163", "Dataset title: Anemometer Data (Wind Speed, Direction) for Watertown, South Dakota (Nov, 2003 - Jan 2004)
+Dataset sample: 
+Time Stamp,Average Wind Speed,Standard Deviation,Average Wind Direction
+11/29/2003 23:40,5.6,0.96,180
+1/4/2004 21:50,9.0,0.91,315
+1/2/2004 13:50,28.5,2.62,293
+12/25/2003 23:20,19.1,2.83,158
+12/10/2003 1:10,17.5,1.5,338
+1/6/2004 14:00,29.2,2.83,293
+1/1/2004 6:30,13.8,2.14,180
+12/26/2003 22:30,21.6,3.1,158
+12/13/2003 20:40,17.3,2.51,225
+12/17/2003 16:40,12.8,1.66,270
+
+Column profiling: 
+Column Time Stamp is a time column with temporal resolution in minute. The temporal coverage is from 2003-11-19 to 2004-01-06. 
+Column Average Wind Speed is a http://schema.org/Float. The range of values is from 0 to 30.3. 
+Column Standard Deviation is a http://schema.org/Float. The range of values is from 0 to 3.53. 
+Column Average Wind Direction is a http://schema.org/Integer. There are 16 distinct values. The range of values is from 0 to 338.0. 
+"

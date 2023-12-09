@@ -1,0 +1,335 @@
+"dataset7", "Dataset title: Virginia Summer and School Breakfast Lunch Program Participation 2019-2020 - 12/10/2021
+Dataset sample: 
+Program Year,Program,SFA ID,FIPS,Locality,Lat,Lon,SFA Name,Claim Date,Breakfast Number of Sites/Centers/Providers,Lunch Number of Sites/Centers/Providers,PM Snack Number of Sites/Centers/Providers,Milk Number of Sites/Centers/Providers,Breakfast Total Enrolled,Lunch Total Enrolled,PM Snack Total Enrolled,Milk Total Enrolled,Breakfast Number of Operating/Serving Days,Lunch Number of Operating/Serving Days,PM Snack Number of Operating/Serving Days,Milk Number of Operating/Serving Days,Breakfast Free Meals Served,Lunch Free Meals Served,PM Snack Free Meals Served,Milk Free Meals Served,Breakfast Reduced Price Meals Served,Lunch Reduced Price Meals Served,PM Snack Reduced Price Meals Served,Milk Reduced Price Meals Served,Breakfast Paid Meals Served,Lunch Paid Meals Served,PM Snack Paid Meals Served,Milk Paid Meals Served,Breakfast Total Meals Served,Lunch Total Meals Served,PM Snack Total Meals Served,Milk Total Meals Served,Breakfast Non-Program Adult Meals,Lunch Non-Program Adult Meals,PM Snack Non-Program Adult Meals,Milk Non-Program Adult Meals,Breakfast Average Daily Attendance (ADA),Lunch Average Daily Attendance (ADA),PM Snack Average Daily Attendance (ADA),Milk Average Daily Attendance (ADA),Breakfast Serving Days,Lunch Serving Days,PM Snack Serving Days,Milk Serving Days,Breakfast Free and Reduced Average Daily Participation,Lunch Free and Reduced Average Daily Participation,PM Snack Free and Reduced Average Daily Participation,Milk Free and Reduced Average Daily Participation,Breakfast Participation,Lunch Participation,Geographical Point,Percent of Free and Reduced Price Eligible Students Participating in School Breakfast
+2019 - 2020,School Nutrition Programs,5284,,,,,Our Savior Lutheran School,2020 February 01,,,,1.0,,,,0.0,,,,19.0,,,,0.0,,,,0.0,,,,1253.0,,,,1253.0,,,,,,,,108.0,,,,23.0,,,,0.0,,,,
+2019 - 2020,School Nutrition Programs,1,1.0,Accomack County,37.7659435,-75.7578073,Accomack County Public Schools,2019 September 01,11.0,11.0,,,5451.0,5451.0,,,19.0,19.0,,,38149.0,55860.0,,,0.0,0.0,,,3740.0,5477.0,,,41889.0,61337.0,,,,,,,5185.0,5188.0,,,9.0,13.0,,,4335.0,4337.0,,,38149.0,55860.0,POINT (-75.7578073 37.7659435),0.7
+2019 - 2020,School Nutrition Programs,14,27.0,Buchanan County,37.2681198,-82.0381508,Buchanan County Public Schools,2020 March 01,8.0,8.0,,,2684.0,2684.0,,,10.0,10.0,,,9559.0,12994.0,,,0.0,0.0,,,1807.0,2457.0,,,11366.0,15451.0,,,,,,,2546.0,2546.0,,,5.0,7.0,,,1848.0,1847.0,,,9559.0,12994.0,POINT (-82.0381508 37.2681198),0.7
+2019 - 2020,School Nutrition Programs,109,610.0,Falls Church City,38.8837873,-77.1746385,Falls Church City Public Schools,2020 January 01,3.0,3.0,,,1141.0,1141.0,,,18.0,18.0,,,532.0,919.0,,,221.0,365.0,,,611.0,5684.0,,,1364.0,6968.0,,,,,,,1085.0,1085.0,,,2.0,12.0,,,372.0,107.0,,,753.0,1284.0,POINT (-77.1746385 38.8837873),0.6
+2019 - 2020,School Nutrition Programs,5761,,,,,All Saints Elementary School,2019 November 01,,,,1.0,,,,0.0,,,,14.0,,,,0.0,,,,0.0,,,,1379.0,,,,1379.0,,,,,,,,448.0,,,,6.0,,,,0.0,,,,
+2019 - 2020,School Nutrition Programs,22,43.0,Clarke County,39.1159309,-77.9920039,Clarke County Public Schools,2019 October 01,1.0,4.0,,,664.0,1928.0,,,22.0,22.0,,,746.0,4894.0,,,89.0,856.0,,,1594.0,11248.0,,,2429.0,16998.0,,,,,,,626.0,1839.0,,,7.0,16.0,,,127.0,363.0,,,835.0,5750.0,POINT (-77.9920039 39.1159309),0.1
+2019 - 2020,School Nutrition Programs,5761,,,,,All Saints Elementary School,2019 September 01,,,,1.0,,,,0.0,,,,19.0,,,,0.0,,,,0.0,,,,1804.0,,,,1804.0,,,,,,,,454.0,,,,8.0,,,,0.0,,,,
+2019 - 2020,School Nutrition Programs,944,,,,,Va Dept Of Military Affairs,2019 November 01,1.0,1.0,1.0,,133.0,133.0,133.0,,26.0,25.0,25.0,,3165.0,3048.0,3030.0,,0.0,0.0,0.0,,0.0,0.0,0.0,,3165.0,3048.0,3030.0,,,,,,133.0,133.0,133.0,,24.0,23.0,23.0,,133.0,133.0,133.0,,3165.0,3048.0,,1.0
+2019 - 2020,School Nutrition Programs,116,690.0,Martinsville City,36.6835269,-79.8636475,Martinsville City Public Schools,2019 November 01,5.0,5.0,5.0,,1921.0,1921.0,330.0,,17.0,17.0,16.0,,18157.0,26631.0,2888.0,,0.0,0.0,0.0,,0.0,0.0,0.0,,18157.0,26631.0,2888.0,,,,,,1832.0,1832.0,318.0,,10.0,15.0,9.0,,1832.0,1832.0,318.0,,18157.0,26631.0,POINT (-79.8636475 36.6835269),0.7
+2019 - 2020,School Nutrition Programs,5049,,,,,Eastern Mennonite High School,2020 February 01,,1.0,,,,359.0,,,,17.0,,,,128.0,,,,192.0,,,,2747.0,,,,3067.0,,,,,,,,333.0,,,,18.0,,,,18.0,,,,320.0,,
+
+Column profiling: 
+Column Claim Date is a time column with temporal resolution in month. The temporal coverage is from 2019-06-30 to 2020-02-29. 
+Column Program Year is a http://schema.org/Text. There are 3 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column Program is a http://schema.org/Text. There are 2 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column SFA ID is a http://schema.org/Integer. There are 228 distinct values. The range of values is from 0 to 5804.0. The semantic types are: http://schema.org/identifier. 
+Column FIPS is a http://schema.org/Integer. There are 130 distinct values. The range of values is from 0 to 810.0. 
+"
+"dataset6", "Dataset title: USDA Food Environment Atlas - Supplemental Data - State
+Dataset sample: 
+StateFIPS,State,WIC_PART_2012,WIC_PART_2013,WIC_PART_2014,WIC_PART_2015,WIC_PART_2016,WIC_PART_2017,WIC_PART_2018,NSLP_PART_2012,NSLP_PART_2013,NSLP_PART_2014,NSLP_PART_2015,NSLP_PART_2016,NSLP_PART_2017,NSLP_PART_2018,SBP_PART_2012,SBP_PART_2013,SBP_PART_2014,SBP_PART_2015,SBP_PART_2016,SBP_PART_2017,SBP_PART_2018,CACFP_PART_2012,CACFP_PART_2013,CACFP_PART_2014,CACFP_PART_2015,CACFP_PART_2016,CACFP_PART_2017,CACFP_PART_2018,SFSP_PART_2012,SFSP_PART_2013,SFSP_PART_2014,SFSP_PART_2015,SFSP_PART_2016,SFSP_PART_2017,SFSP_PART_2018,State_Population_2012,State_Population_2013,State_Population_2014,State_Population_2015,State_Population_2016,State_Population_2017,State_Population_2018
+2,Alaska,24969.3333,23054.6667,19604.6667,19682.0,19120.9167,18188.1667,17092.4167,53919.813,52495.0258,51002.8767,53616.9244,52479.8034,53577.9696,53653.482,20758.7199,20740.7407,21044.7081,25111.231,25979.1442,26769.1478,27000.5993,10540.75,10962.75,11429.5,10786.5,10039.0,10082.5,9547.0,4661,5078,6670,5850,4688,4959,4266,730399,737045,736307,737547,741504,739786,737438
+40,Oklahoma,123069.8332,118552.3334,114489.8334,112892.1666,110724.6667,105845.75,98550.6668,446144.1927,437992.0892,439385.7126,440444.6842,447425.027,442477.5261,440851.1327,227416.7566,227754.4048,226575.4525,225685.4848,232765.4321,231253.6258,229567.7814,54327.25,53632.25,52954.0,53308.5,55330.25,58252.5,63207.25,11390,11315,16850,16793,13502,13222,13418,3818600,3853205,3878367,3909831,3926769,3932640,3943079
+19,Iowa,69158.9167,65875.9167,63766.6667,63481.25,61163.4167,61995.9167,60249.25,395599.7842,384195.0138,383565.3842,381698.5497,381877.2624,377927.3643,373033.561,93107.5153,94780.7743,93851.732,98260.338,103663.1907,103257.9408,102432.6981,38915.75,38978.25,39403.0,44129.75,43173.5,43434.25,42862.0,11109,13607,16016,16703,18296,18475,21739,3076097,3093078,3109504,3121460,3131785,3143637,3156145
+32,Nevada,76108.25,75011.25,74262.0,73143.5834,70466.5833,66624.8333,62531.25,218552.3193,215820.8079,212395.1816,216392.0652,222217.9072,224528.3471,227932.758,87212.6333,92738.4634,90757.5213,93943.7852,121311.2789,139251.2286,135805.3458,13841.5,14491.75,13544.0,16423.25,17042.0,27621.25,24693.0,6865,9716,12322,11966,11840,8309,8524,2744566,2776972,2819012,2868666,2919772,2972405,3034392
+48,Texas,969893.0833,955072.25,916461.1667,886409.1667,859819.4167,821873.25,746246.25,3374153.9015,3314594.1508,3322511.9262,3379270.6461,3377166.1273,3348977.3463,3342252.9066,1786413.6402,1818710.2961,1864868.992,1902635.9823,1928262.1359,1909050.821,1918382.8359,351921.5,369514.5,410908.25,474922.75,546726.5,594859.5,670944.5,176587,180355,181174,139673,126660,113922,144853,26089620,26489464,26977142,27486814,27937492,28322717,28701845
+45,South Carolina,130524.9167,124287.1667,113179.4167,114561.5833,107256.5,99331.6667,92152.5,492877.7418,478053.5778,474023.253,483026.1297,478435.9343,472538.1757,472200.4075,272397.9384,273442.8862,270340.525,266238.4035,268231.8111,267280.2349,268138.799,33468.5,35513.5,36367.25,39243.25,39241.0,40176.25,50683.5,56178,56172,71257,66560,61654,35127,49713,4717112,4764153,4823793,4892253,4958235,5021219,5084127
+55,Wisconsin,118584.9167,113762.75,108900.5,105503.5833,100151.9167,95958.1667,92487.0833,596221.8626,562217.0682,550476.2076,541766.7506,527339.3264,510632.9857,500434.1364,172949.0591,173059.0915,177052.4991,185094.3306,192092.1731,190113.8679,192102.1215,60128.25,59571.75,61314.75,61147.25,61480.5,59831.0,58050.75,87538,88294,97600,94796,90176,54672,51806,5719855,5736952,5751974,5761406,5772958,5792051,5813568
+23,Maine,25690.0833,24380.0833,22946.5,21780.833400000003,20805.6666,19363.833400000003,18320.0,107179.312,100839.2665,99412.3217,100272.3241,99421.551,97730.4327,96194.7741,44366.2951,44986.3358,47006.5924,48563.9458,50073.4748,50072.7556,50399.6164,11089.0,10647.75,10533.0,11099.5,11034.75,10268.5,10974.75,9169,10553,11756,13327,14057,15298,15036,1327691,1328196,1330760,1328484,1331370,1335063,1338404
+51,Virginia,159137.4167,155935.3333,144597.5833,139631.6667,132404.0,122184.9167,113951.6667,749114.7069,717617.5237,708104.6386,702669.9029,702343.1619,694907.5872,702413.1607,271107.0358,272469.7351,276308.1625,284825.4824,309949.8981,329201.726,351364.7369,70997.0,65337.75,66057.75,68505.75,71045.0,104110.0,112418.25,54339,55519,57306,57328,59073,73284,77137,8185229,8253053,8312076,8362907,8410946,8465207,8517685
+34,New Jersey,172333.0833,167872.5,163049.1667,161664.4167,155285.3333,147937.0833,141567.5833,729252.4272,694174.997,688987.7742,695702.625,695986.3359,694110.5118,689593.5515,218062.4476,242577.8497,273430.4207,302630.8282,322973.7505,326873.5467,324406.3287,75913.25,79690.25,79311.75,83352.0,90222.0,90993.0,86513.0,52652,59505,53096,48516,58308,62069,71684,8845483,8858362,8866780,8870869,8874516,8888543,8908520
+
+Column profiling: 
+Column StateFIPS is a http://schema.org/Integer. There are 51 distinct values. The range of values is from 0 to 56.0. 
+Column State is a http://schema.org/Text. There are 51 distinct values. 
+Column WIC_PART_2012 is a http://schema.org/Float. The range of values is from 0 to 524148.0833. 
+Column WIC_PART_2013 is a http://schema.org/Float. The range of values is from 0 to 513298.6667. 
+Column WIC_PART_2014 is a http://schema.org/Float. The range of values is from 0 to 485824.5. 
+"
+"dataset4", "Dataset title: VDOE School Lunch Program Participation - All Meal Types - Oct 2019-2020
+Dataset sample: 
+Program Year,SFA Name,SiteName,Meal Type,Months in Claim Date,Total Average Daily Participation (ADP),Total Free Meals Served,Total Reduced Price Meals Served,Total Paid Meals Served
+2019 - 2020,Bedford County Public Schools,FOREST MIDDLE,3. Lunch,10/01/2019,365,2117,491.0,5054.0
+2019 - 2020,Henrico County Public Schools,RIVERS EDGE ELEM,3. Lunch,10/01/2019,255,444,122.0,5030.0
+2019 - 2020,Newport News City Public Schools,ACHIEVABLE DREAM MIDDLE/HIGH,3. Lunch,10/01/2019,391,6870,0.0,2115.0
+2019 - 2020,Fairfax County Public Schools,HOLMES MIDDLE,3. Lunch,10/01/2019,691,8793,2212.0,4181.0
+2019 - 2020,Grafton/GIHN SNP,BERRYVILLE CAMPUS RTC,3. Lunch,10/01/2019,69,2139,0.0,
+2019 - 2020,Hampton City Public Schools,PHILLIPS ELEM,3. Lunch,10/01/2019,284,3539,724.0,2257.0
+2019 - 2020,Chesapeake City Public Schools,HICKORY HIGH,1. Breakfast,10/01/2019,19,163,35.0,220.0
+2019 - 2020,Prince William County Public Schools,COVINGTON-HARPER ELEM,3. Lunch,10/01/2019,502,4479,1118.0,5431.0
+2019 - 2020,Washington County Public Schools,RHEA VALLEY ELEM,1. Breakfast,10/01/2019,210,3836,0.0,984.0
+2019 - 2020,Virginia Beach City Public Schools,TRANTWOOD ELEM,1. Breakfast,10/01/2019,96,1002,178.0,931.0
+
+Column profiling: 
+Column Months in Claim Date is a time column with temporal resolution in day. The temporal coverage is from 2019-09-30 to 2019-09-30. 
+Column Program Year is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column SFA Name is a http://schema.org/Text. The semantic types are: http://schema.org/Text. 
+Column SiteName is a http://schema.org/Text. There are 1905 distinct values. 
+Column Meal Type is a http://schema.org/Text. There are 2 distinct values. The semantic types are: http://schema.org/Enumeration. 
+"
+"dataset5", "Dataset title: USDA Food Environment Atlas - Food Assistance
+Dataset sample: 
+FIPS,State,County,REDEMP_SNAPS12,REDEMP_SNAPS17,PCH_REDEMP_SNAPS_12_17,PCT_SNAP12*,PCT_SNAP17*,PCH_SNAP_12_17*,PC_SNAPBEN12,PC_SNAPBEN17,PCH_PC_SNAPBEN_12_17,SNAP_PART_RATE11*,SNAP_PART_RATE16*,SNAP_OAPP09*,SNAP_OAPP16*,SNAP_CAP09*,SNAP_CAP16*,SNAP_BBCE09*,SNAP_BBCE16*,SNAP_REPORTSIMPLE09*,SNAP_REPORTSIMPLE16*,PCT_NSLP12*,PCT_NSLP17*,PCH_NSLP_12_17*,PCT_FREE_LUNCH10,PCT_FREE_LUNCH15,PCT_REDUCED_LUNCH10,PCT_REDUCED_LUNCH15,PCT_SBP12*,PCT_SBP17*,PCH_SBP_12_17*,PCT_SFSP12*,PCT_SFSP17*,PCH_SFSP_12_17*,PC_WIC_REDEMP11,PC_WIC_REDEMP16,PCH_PC_WIC_REDEMP_11_16,REDEMP_WICS11,REDEMP_WICS16,PCH_REDEMP_WICS_11_16,PCT_WIC12*,PCT_WIC17*,PCH_WIC_12_17*,PCT_WICINFANTCHILD14*,PCT_WICINFANTCHILD16*,PCH_WICINFANTCHILD_14_16*,PCT_WICWOMEN14*,PCT_WICWOMEN16*,PCH_WICWOMEN_14_16*,PCT_CACFP12*,PCT_CACFP17*,PCH_CACFP_12_17*,FDPIR12,FDPIR15,PCH_FDPIR_12_15,FOOD_BANKS18
+47139,TN,Polk,184375.99653543308,134522.91,-27.03881604558671,20.41366256825688,15.590531235631294,-4.823131332625584,29.274263381958008,19.86234664916992,-32.150821685791016,94.668,92.77,1.0,1.0,0,0,0,0,1,1,63.19636880023312,59.91962269044233,-3.276746109790793,55.14254781667268,,9.491158426560808,,30.64918305980035,35.6149494141465,4.965766354346151,2.981606044476803,6.297685351334026,3.316079306857223,19.54688262939453,14.376520156860352,-26.45108413696289,81818.359375,60349.0390625,-26.240222930908203,2.523394865805397,2.029528856828724,-0.493866008976673,28.001521929966355,25.94947533320072,-2.052046596765638,3.213155108255319,2.929147627912224,-0.284007480343095,1.058152131450066,1.289513197172596,0.23136106572253,0,0,0.0,0
+40109,OK,Oklahoma,328265.70728410466,293204.83565249725,-10.680637926417097,16.117930586287102,15.362937173608652,-0.75499341267845,22.316633224487305,18.792457580566406,-15.791699409484863,78.287,81.637,0.0,1.0,0,0,1,1,1,1,67.03693242877749,64.01936537309632,-3.01756705568117,55.59402726682536,54.419829857062666,6.881627353386713,5.679348217241727,34.17128810554153,33.45867188879018,-0.71261621675135,1.711443683134992,1.913010263874461,0.201566580739468,16.303102493286133,11.1631441116333,-31.52748680114746,177876.578125,130847.546875,-26.439136505126957,3.225693856679085,2.692684102019302,-0.533009754659783,32.84667399109742,31.47162720357538,-1.375046787522038,3.748520935022524,3.484383424022387,-0.264137511000138,1.423932023134235,1.48192611090081,0.057994087766575,0,0,0.0,1
+47007,TN,Bledsoe,156597.47679999995,156859.5223668639,0.167337030084212,20.41366256825688,15.590531235631294,-4.823131332625584,36.04129409790039,23.221445083618164,-35.56988906860352,94.668,92.77,1.0,1.0,0,0,0,0,1,1,63.19636880023312,59.91962269044233,-3.276746109790793,62.63291139240506,,11.443037974683543,,30.64918305980035,35.6149494141465,4.965766354346151,2.981606044476803,6.297685351334026,3.316079306857223,,,,180443.203125,182492.125,1.135494112968445,2.523394865805397,2.029528856828724,-0.493866008976673,28.001521929966355,25.94947533320072,-2.052046596765638,3.213155108255319,2.929147627912224,-0.284007480343095,1.058152131450066,1.289513197172596,0.23136106572253,0,0,0.0,0
+25019,MA,Nantucket,,,,12.937184770258153,11.168160315891718,-1.769024454366434,4.813915729522705,3.673523902893066,-23.68948554992676,86.816,90.628,1.0,1.0,1,1,1,1,1,1,50.90807894681696,51.908868976179534,1.000790029362577,9.231962761830877,,1.706749418153607,,14.27687234127672,20.03323768439967,5.756365343122949,4.644871724043336,5.698276732012184,1.053405007968848,,,,61701.80078125,52336.1953125,-15.178820610046388,1.840460934223493,1.643824956605998,-0.196635977617496,24.247201035568946,24.45112895684937,0.203927921280425,1.917146932785269,1.861042546364347,-0.056104386420923,0.957572398574275,1.211194493615648,0.253622095041373,0,0,0.0,0
+18057,IN,Hamilton,176981.43473441107,98752.007890625,-44.202052583188646,13.90378025801506,10.079556194574382,-3.824224063440679,4.044097900390625,2.343908548355102,-42.04125213623047,78.655,79.7,0.5,0.5,0,0,0,0,1,1,68.4195046821052,64.10643800139022,-4.313066680714982,11.559663678378527,13.326780180600448,4.530690275999035,3.698643830595448,21.873887598739145,24.41300607317128,2.539118474432133,4.650173999460414,4.810413910511709,0.160239911051296,6.028647899627686,4.897174835205078,-18.768272399902344,81348.2734375,64477.42578125,-20.739036560058597,2.513601650329385,2.159568477795554,-0.354033172533831,27.96800422585696,26.713016399062912,-1.25498782679405,2.931689312286183,2.646562191183788,-0.285127121102394,1.089537177930631,1.406405574593457,0.316868396662825,0,0,0.0,0
+29107,MO,Lafayette,179395.95010309282,103986.66423529413,-42.03511050526142,15.73711713759327,12.413743261669358,-3.323373875923911,18.80443954467773,12.034966468811035,-35.99933624267578,90.017,89.25,0.0,1.0,0,0,0,0,1,1,61.851763823264335,57.751438114749256,-4.100325708515079,30.923694779116467,38.76362269823375,6.772544724351953,7.854190154077415,24.90466192911484,27.92367131504682,3.01900938593198,2.627918255450266,4.331337796722911,1.703419541272646,10.41441535949707,5.607020378112793,-46.16096878051758,57633.375,30386.3125,-47.27653503417969,2.422270726169038,1.956644429112336,-0.465626297056701,27.130852973979163,25.12036041817064,-2.010492555808522,3.024906193920279,2.679701307355515,-0.345204886564764,1.136600784922866,1.185955189242487,0.04935440431962,0,0,0.0,0
+55091,WI,Pepin,102992.9675,51115.546987951806,-50.36986676983377,14.600618472926854,11.934029772842056,-2.666588700084798,8.827252388000488,8.030052185058594,-9.03112506866455,90.91,94.073,1.0,1.0,0,0,1,1,1,1,60.93422192652187,53.38679882861916,-7.547423097902708,29.747351263243683,30.267558528428097,7.742461287693561,6.856187290969899,17.67549466104155,19.87644963083312,2.200954969791571,8.946434630463132,5.71597046664952,-3.230464163813612,,,,45100.3359375,31499.4609375,-30.156925201416016,2.072773328439148,1.655740629383263,-0.417032699055886,24.15890164821875,22.65305786629604,-1.505843781922714,2.237643211458201,2.014588400990688,-0.223054810467513,1.050995660780535,1.032372970466827,-0.018622690313708,0,0,0.0,0
+49017,UT,Garfield,63242.26,31220.359436619718,-50.63370689690767,9.70106740120425,6.650863109006836,-3.050204292197415,8.081506729125977,4.923198223114014,-39.0806884765625,78.201,70.229,1.0,1.0,0,0,0,0,1,1,57.48922543798363,51.033471205375136,-6.455754232608491,40.63136456211813,32.796780684104625,12.423625254582484,15.694164989939638,12.289169347078133,13.28152664219642,0.992357295118289,2.252534307069695,1.142992742589333,-1.109541564480362,13.16053581237793,6.686264514923096,-49.19458770751953,16937.609375,6647.48388671875,-60.753116607666016,2.439929339764041,1.732776500217774,-0.707152839546267,17.806184733334888,16.722381912397033,-1.083802820937855,2.463010571627728,2.125018159210586,-0.337992412417142,1.105712870267274,1.062275112812327,-0.043437757454947,0,0,0.0,0
+46099,SD,Minnehaha,249433.8341734861,183569.08040042152,-26.405701532557277,12.472835308728571,10.723484648129284,-1.749350660599289,16.33627700805664,12.600998878479004,-22.86492919921875,81.775,82.878,0.0,1.0,0,1,0,0,1,1,74.73455750918811,71.3066533774685,-3.4279041317196,27.379999303839327,34.0166739252162,6.620488008632392,6.958875132209295,19.14376385176523,19.72435518643573,0.580591334670501,3.840906559750529,3.946958188777372,0.106051629026843,17.281841278076172,15.809218406677246,-8.521215438842773,155930.40625,105313.109375,-32.46146774291992,2.66080814243985,2.11191232036207,-0.548895822077779,25.799706591572097,24.64362498751955,-1.156081604052545,2.832441757916353,2.636566827738163,-0.19587493017819,1.771700121070028,1.768437538089335,-0.003262582980693,0,0,0.0,1
+
+Column profiling: 
+Column FIPS is a http://schema.org/Integer. There are 3143 distinct values. The range of values is from 0 to 55095.0. 
+Column State is a http://schema.org/Text. There are 51 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column County is a http://schema.org/Text. There are 1832 distinct values. 
+Column REDEMP_SNAPS12 is a http://schema.org/Float. The range of values is from 0 to 601241.1170860927. 
+Column REDEMP_SNAPS17 is a http://schema.org/Float. The range of values is from 0 to 536551.1368421052. 
+"
+"dataset1", "Dataset title: VDOE School Lunch Program Participation - All Meal Types - Oct-2018-2019
+Dataset sample: 
+Program Year,SFA Name,SiteName,Meal Type,Months in Claim Date,Total Average Daily Participation (ADP),Total Free Meals Served,Total Reduced Price Meals Served,Total Paid Meals Served
+2018 - 2019,Portsmouth City Public Schools,CHURCHLAND PRIMARY & INTERMEDIATE,3. Lunch,Nov 2018,337,3514,377.0,2174.0
+2018 - 2019,Danville City Public Schools,WOODROW WILSON INTERMEDIATE,3. Lunch,Apr 2019,267,5596,0.0,0.0
+2018 - 2019,Stafford County Public Schools,EDWARD E. DREW JR. MIDDLE,1. Breakfast,Mar 2019,145,1976,253.0,803.0
+2018 - 2019,Isle of Wight County Public Schools,HARDY ELEM,3. Lunch,Mar 2019,248,3125,262.0,1560.0
+2018 - 2019,Chesterfield County Public Schools,SWIFT CREEK ELEM,3. Lunch,Oct 2018,328,1542,502.0,5170.0
+2018 - 2019,Montgomery County Public Schools,BLACKSBURG MIDDLE,3. Lunch,Oct 2018,287,2237,295.0,3205.0
+2018 - 2019,Albemarle County Public Schools,BROADUS WOOD ELEM,3. Lunch,Apr 2019,119,507,80.0,1428.0
+2018 - 2019,Stafford County Public Schools,RODNEY E. THOMPSON MIDDLE,1. Breakfast,Feb 2019,89,719,228.0,562.0
+2018 - 2019,Norfolk City Public Schools,CHESTERFIELD ACADEMY ELEM,1. Breakfast,Dec 2018,279,3898,0.0,0.0
+2018 - 2019,Henrico County Public Schools,MONTROSE ELEM,1. Breakfast,Apr 2019,301,4400,0.0,413.0
+
+Column profiling: 
+Column Months in Claim Date is a time column with temporal resolution in month. The temporal coverage is from 2018-09-30 to 2019-05-31. 
+Column Program Year is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column SFA Name is a http://schema.org/Text. The semantic types are: http://schema.org/Text. 
+Column SiteName is a http://schema.org/Text. There are 1900 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column Meal Type is a http://schema.org/Text. There are 2 distinct values. The semantic types are: http://schema.org/Enumeration. 
+"
+"dataset2", "Dataset title: Virginia School Breakfast and School Lunch Program Participation 2019-2020
+Dataset sample: 
+Program Year,Program,SFA ID,SFA Name,Claim Date,Meal Type,Number of Sites/Centers/Providers,Total Enrolled,Number of Operating/Serving Days,Free Meals Served,Reduced Price Meals Served,Paid Meals Served,Total Meals Served,Non-Program Adult Meals,Average Daily Attendance (ADA),Serving Days,Free and Reduced Average Daily Participation,Breakfast Participation
+2019 - 2020,School Nutrition Programs,127,Suffolk City Public Schools,12/01/2019,1. Breakfast,5,4056,15,6764,1239,8006,16009,,3854,7,1221,
+2019 - 2020,School Nutrition Programs,81,Rockbridge County Public Schools,01/01/2020,3. Lunch,6,2723,17,12420,2177,8093,22690,,2428,14,1075,
+2019 - 2020,School Nutrition Programs,5235,St. Andrews School,10/01/2019,4. PM Snack,1,92,20,1515,0,0,1515,,80,19,80,
+2020 - 2021,School Nutrition Programs,18,Carroll County Public Schools,08/01/2020,3. Lunch,9,3558,11,13129,426,2720,16275,,3439,6,2400,
+2020 - 2021,School Nutrition Programs,17,Caroline County Public Schools,08/01/2020,3. Lunch,2,2141,6,705,0,286,991,,2073,1,1144,
+2019 - 2020,School Nutrition Programs,5803,AJC Episcopal School,11/01/2019,1. Breakfast,1,112,17,1720,0,0,1720,,107,16,107,
+2019 - 2020,School Nutrition Programs,28,Essex County Public Schools,09/01/2019,3. Lunch,3,1308,19,13712,363,734,14809,,1260,13,1115,
+2019 - 2020,School Nutrition Programs,7,Arlington County Public Schools,09/01/2019,1. Breakfast,23,18270,20,32239,8088,13366,53693,,17359,4,9316,
+2019 - 2020,School Nutrition Programs,73,Prince Edward County Public Schools,02/01/2020,1. Breakfast,3,2042,17,18731,239,1201,20171,,1937,11,1700,
+2019 - 2020,School Nutrition Programs,30,Fauquier County Public Schools,12/01/2019,1. Breakfast,14,7525,13,11857,1895,6482,20234,,7146,4,3435,
+
+Column profiling: 
+Column Claim Date is a time column with temporal resolution in month. The temporal coverage is from 2019-08-31 to 2020-02-29. 
+Column Program Year is a http://schema.org/Text. There are 2 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column Program is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column SFA ID is a http://schema.org/Integer. There are 180 distinct values. The range of values is from 0 to 5804.0. The semantic types are: http://schema.org/identifier. 
+Column SFA Name is a http://schema.org/Text. The semantic types are: http://schema.org/Text. 
+"
+"dataset3", "Dataset title: NEW Virginia School Breakfast and School Lunch Program Participation 2019-2020
+Dataset sample: 
+Program Year,Program,SFA ID,SFA Name,Claim Date,Breakfast Number of Sites/Centers/Providers,Lunch Number of Sites/Centers/Providers,PM Snack Number of Sites/Centers/Providers,Milk Number of Sites/Centers/Providers,Breakfast Total Enrolled,Lunch Total Enrolled,PM Snack Total Enrolled,Milk Total Enrolled,Breakfast Number of Operating/Serving Days,Lunch Number of Operating/Serving Days,PM Snack Number of Operating/Serving Days,Milk Number of Operating/Serving Days,Breakfast Free Meals Served,Lunch Free Meals Served,PM Snack Free Meals Served,Milk Free Meals Served,Breakfast Reduced Price Meals Served,Lunch Reduced Price Meals Served,PM Snack Reduced Price Meals Served,Milk Reduced Price Meals Served,Breakfast Paid Meals Served,Lunch Paid Meals Served,PM Snack Paid Meals Served,Milk Paid Meals Served,Breakfast Total Meals Served,Lunch Total Meals Served,PM Snack Total Meals Served,Milk Total Meals Served,Breakfast Non-Program Adult Meals,Lunch Non-Program Adult Meals,PM Snack Non-Program Adult Meals,Milk Non-Program Adult Meals,Breakfast Average Daily Attendance (ADA),Lunch Average Daily Attendance (ADA),PM Snack Average Daily Attendance (ADA),Milk Average Daily Attendance (ADA),Breakfast Serving Days,Lunch Serving Days,PM Snack Serving Days,Milk Serving Days,Breakfast Free and Reduced Average Daily Participation,Lunch Free and Reduced Average Daily Participation,PM Snack Free and Reduced Average Daily Participation,Milk Free and Reduced Average Daily Participation,Breakfast Participation,MTW Status,MTW Status 1,MTW Status 2,MTW Status 3
+2020 - 2021,School Nutrition Programs,119,Norton City Public Schools,08/01/2020 12:00:00 AM,2.0,2.0,,,841.0,841.0,,,19.0,19.0,,,4460.0,8027.0,,,0.0,0.0,,,336.0,606.0,,,4796.0,8633.0,,,,,,,841.0,841.0,,,6.0,11.0,,,731.0,731.0,,,,Matching and updated,Matching and updated,Non-matching,Non-matching
+2019 - 2020,School Nutrition Programs,5782,St. Bernadette Catholic School,03/01/2020 12:00:00 AM,1.0,1.0,,,430.0,430.0,,,9.0,9.0,,,5.0,134.0,,,1.0,41.0,,,66.0,1115.0,,,72.0,1290.0,,,,,,,346.0,346.0,,,0.0,7.0,,,15.0,25.0,,,,Matching and updated,Matching and updated,Non-matching,Non-matching
+2019 - 2020,School Nutrition Programs,4177,Holy Family Catholic School,03/01/2020 12:00:00 AM,,,,1.0,,,,0.0,,,,10.0,,,,189.0,,,,0.0,,,,83.0,,,,272.0,,,,,,,,99.0,,,,4.0,,,,53.0,,Non-matching,Non-matching,Non-matching,Matching and updated
+2019 - 2020,School Nutrition Programs,5793,Jackson-Feild Home,03/01/2020 12:00:00 AM,1.0,1.0,1.0,,41.0,41.0,41.0,,31.0,31.0,31.0,,1132.0,1131.0,788.0,,0.0,0.0,0.0,,0.0,0.0,0.0,,1132.0,1131.0,788.0,,,,,,37.0,37.0,37.0,,31.0,31.0,21.0,,37.0,37.0,37.0,,,Matching and updated,Matching and updated,Matching and updated,Non-matching
+2019 - 2020,School Nutrition Programs,63,New Kent County Public Schools,09/01/2019 12:00:00 AM,1.0,4.0,,,1004.0,3357.0,,,19.0,19.0,,,463.0,6716.0,,,102.0,1357.0,,,239.0,11837.0,,,804.0,19910.0,,,,,,,963.0,3236.0,,,1.0,10.0,,,475.0,789.0,,,,Matching and updated,Matching and updated,Non-matching,Non-matching
+2019 - 2020,School Nutrition Programs,95,Westmoreland County Public Schools,09/01/2019 12:00:00 AM,4.0,4.0,,,1604.0,1604.0,,,19.0,19.0,,,11948.0,13418.0,,,595.0,618.0,,,2529.0,3159.0,,,15072.0,17195.0,,,,,,,1551.0,1551.0,,,12.0,14.0,,,1069.0,1038.0,,,,Matching and updated,Matching and updated,Non-matching,Non-matching
+2019 - 2020,School Nutrition Programs,32,Fluvanna County Public Schools,11/01/2019 12:00:00 AM,4.0,4.0,,,3565.0,3565.0,,,17.0,17.0,,,6633.0,12457.0,,,994.0,2436.0,,,3439.0,12435.0,,,11066.0,27328.0,,,,,,,3306.0,3306.0,,,5.0,13.0,,,1627.0,1167.0,,,,Matching and updated,Matching and updated,Non-matching,Non-matching
+2020 - 2021,School Nutrition Programs,5795,St. Marys Home,07/01/2020 12:00:00 AM,1.0,1.0,,,88.0,88.0,,,31.0,31.0,,,2632.0,2572.0,,,0.0,0.0,,,0.0,0.0,,,2632.0,2572.0,,,,,,,85.0,85.0,,,31.0,30.0,,,85.0,85.0,,,,Matching and updated,Matching and updated,Non-matching,Non-matching
+2019 - 2020,School Nutrition Programs,106,Colonial Heights City Public Schools,11/01/2019 12:00:00 AM,5.0,5.0,3.0,,2919.0,2919.0,102.0,,17.0,17.0,17.0,,7664.0,17059.0,1164.0,,697.0,2366.0,0.0,,1048.0,6674.0,0.0,,9409.0,26099.0,1164.0,,,,,,2773.0,2773.0,98.0,,4.0,13.0,12.0,,2079.0,1533.0,98.0,,,Matching and updated,Matching and updated,Matching and updated,Non-matching
+2019 - 2020,School Nutrition Programs,5840,Church Hill Academy,02/01/2020 12:00:00 AM,1.0,1.0,,,43.0,43.0,,,19.0,19.0,,,185.0,455.0,,,0.0,0.0,,,24.0,60.0,,,209.0,515.0,,,,,,,37.0,37.0,,,6.0,16.0,,,29.0,29.0,,,,Matching and updated,Matching and updated,Non-matching,Non-matching
+
+Column profiling: 
+Column Claim Date is a time column with temporal resolution in month. The temporal coverage is from 2019-08-31 to 2020-02-29. 
+Column Program Year is a http://schema.org/Text. There are 2 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column Program is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column SFA ID is a http://schema.org/Integer. There are 180 distinct values. The range of values is from 0 to 5806.0. The semantic types are: http://schema.org/identifier. 
+Column SFA Name is a http://schema.org/Text. The semantic types are: http://schema.org/Text. 
+"
+"dataset10", "Dataset title: School Nutrition Programs - Meal Reimbursement Information - Program Year 2019-2020
+Dataset sample: 
+ProgramYear,ReportType,CEID,CEName,TypeOfAgency,TypeOfOrg,ESC,TDARegion,SiteID,SiteName,COVIDMealSite,CountyDistrictCode,CECounty,SiteCounty,ClaimDate,EnrollmentQty,FreeEligQty,RedcEligQty,PaidEligQty,BreakfastDays,BreakfastTotal,BreakfastADP,BreakfastServedFree,BreakfastServedRedc,BreakfastServedPaid,LunchDays,LunchTotal,LunchADP,LunchServedFree,LunchServedRedc,LunchServedPaid,SnackDays,SnackTotal,SnackADP,SnacksServedFree,SnacksServedRedc,SnacksServedPaid,MilkDays,Milktotal,MilkADP,MilkServedFree,MilkServedReduced,MilkServedPaid,BreakfastReimbursement,LunchReimbursement,SnackReimbursement,MilkReimbursement,TotalReimbursement
+2019-2020,SCHOOLNUTRITIONPROGRAMCLAIMS,476,"TEJANO CENTER FOR COMMUNITY CONCERNS, INC.",Educational Institution,Charter,4,3,1,HOUSTON T-STEM AND EARLY COLLEGE H S,,101806.0,HARRIS,HARRIS,12/01/2019,288,288,0,0,15,1712,114.13,1712,0,0,15,3563,237.53,3563,0,0,15,67,4.47,67,0,0,0,0,0.0,0,0,0,3766.4,12470.5,62.98,0.0,16299.88
+2019-2020,SCHOOLNUTRITIONPROGRAMCLAIMS,1025,CROWLEY ISD,Educational Institution,Public,11,2,115,JUNE W DAVIS EL,,220912.0,TARRANT,TARRANT,02/01/2020,598,326,44,228,18,7945,441.39,4549,560,2836,18,6653,369.61,4302,674,1677,5,361,72.2,361,0,0,0,0,0.0,0,0,0,10111.72,17833.97,339.34,0.0,28285.03
+2019-2020,SCHOOLNUTRITIONPROGRAMCLAIMS,886,LIT CYPRESS-MRCEVILLE CONS ISD,Educational Institution,Public,5,3,101,LITTLE CYPRESS EL,,181908.0,ORANGE,ORANGE,01/01/2020,630,576,0,54,18,4724,262.44,4321,0,403,18,6336,352.0,5795,0,541,0,0,0.0,0,0,0,0,0,0.0,0,0,0,9631.13,20504.31,0.0,0.0,30135.44
+2019-2020,SCHOOLNUTRITIONPROGRAMCLAIMS,169,QUEEN CITY ISD,Educational Institution,Public,8,2,1,QUEEN CITY H S,,34907.0,CASS,CASS,01/01/2020,336,162,28,146,18,1591,88.39,1177,97,317,18,2809,156.06,1835,188,786,0,0,0.0,0,0,0,0,0,0.0,0,0,0,2871.97,7327.56,0.0,0.0,10199.53
+2019-2020,SCHOOLNUTRITIONPROGRAMCLAIMS,346,EL PASO ISD,Educational Institution,Public,19,1,43,CANYON HILLS MIDDLE,,71902.0,EL PASO,EL PASO,08/01/2019,768,767,0,1,15,3348,223.2,3344,0,4,15,7521,501.4,7511,0,10,0,0,0.0,0,0,0,0,0,0.0,0,0,0,7358.04,26292.6,0.0,0.0,33650.64
+2019-2020,SCHOOLNUTRITIONPROGRAMCLAIMS,753,SLATON ISD,Educational Institution,Public,17,1,101,AUSTIN EL,,152903.0,LUBBOCK,LUBBOCK,02/01/2020,209,197,0,12,18,3489,193.83,3287,0,202,18,3346,185.89,3152,0,194,0,0,0.0,0,0,0,0,0,0.0,0,0,0,7294.02,11111.54,0.0,0.0,18405.56
+2019-2020,SCHOOLNUTRITIONPROGRAMCLAIMS,675,LUEDERS-AVOCA ISD,Educational Institution,Public,14,1,1,LUEDERS -AVOCA H S,,127905.0,JONES,JONES,11/01/2019,31,16,3,12,16,276,17.25,139,30,107,16,284,17.75,168,38,78,0,0,0.0,0,0,0,0,0,0.0,0,0,0,395.97,737.78,0.0,0.0,1133.75
+2019-2020,SCHOOLNUTRITIONPROGRAMCLAIMS,597,GRANBURY ISD,Educational Institution,Public,11,2,106,OAK WOODS INT,,111901.0,HOOD,HOOD,12/01/2019,585,237,38,310,14,2100,150.0,1365,216,519,14,4032,288.0,2162,416,1454,0,0,0.0,0,0,0,0,0,0.0,0,0,0,3574.29,9452.74,0.0,0.0,13027.03
+2019-2020,SCHOOLNUTRITIONPROGRAMCLAIMS,151,BROWNSVILLE ISD,Educational Institution,Public,1,5,123,EGLY EL,,31901.0,CAMERON,CAMERON,03/01/2020,705,705,0,0,10,4612,461.2,4612,0,0,10,6011,601.1,6011,0,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,10146.4,21038.5,0.0,0.0,31184.9
+2019-2020,SCHOOLNUTRITIONPROGRAMCLAIMS,116,SWEENY ISD,Educational Institution,Public,4,3,2,SWEENY H S,,20906.0,BRAZORIA,BRAZORIA,08/01/2019,571,235,37,299,12,734,61.17,438,50,246,12,3214,267.83,1537,248,1429,0,0,0.0,0,0,0,0,0,0.0,0,0,0,1134.86,6734.19,0.0,0.0,7869.05
+
+Column profiling: 
+Column ClaimDate is a time column with temporal resolution in month. The temporal coverage is from 2019-07-31 to 2020-02-29. 
+Column ProgramYear is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column ReportType is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column CEID is a http://schema.org/Integer. There are 1227 distinct values. The range of values is from 0 to 1271.0. The semantic types are: http://schema.org/identifier. 
+Column CEName is a http://schema.org/Text. There are 1220 distinct values. The semantic types are: http://schema.org/Enumeration. 
+"
+"dataset11", "Dataset title: School Nutrition Programs – Meal Reimbursement Information – Program Year 2018-2019
+Dataset sample: 
+ProgramYear,ReportType,CEID,CEName,TypeOfAgency,TypeOfOrg,ESC,TDARegion,SiteID,SiteName,CountyDistrictCode,CECounty,SiteCounty,ClaimDate,EnrollmentQty,FreeEligQty,RedcEligQty,PaidEligQty,BreakfastDays,BreakfastTotal,BreakfastADP,BreakfastServedFree,BreakfastServedRedc,BreakfastServedPaid,LunchDays,LunchTotal,LunchADP,LunchServedFree,LunchServedRedc,LunchServedPaid,SnackDays,SnackTotal,SnackADP,SnacksServedFree,SnacksServedRedc,SnacksServedPaid,TotalMealsSnacks,MilkDays,Milktotal,MilkADP,MilkServedFree,MilkServedReduced,MilkServedPaid,BreakfastReimbursement,LunchReimbursement,SnackReimbursement,MilkReimbursement,TotalReimbursement
+2018-2019,SCHOOLNUTRITIONPROGRAMCLAIMS,1068,AUSTIN ISD,Educational Institution,Public,13,4,184,CLAYTON EL,227901.0,TRAVIS,TRAVIS,01/2019,832,25,2,805,18,282,15.67,55,1,226,18,4819,267.72,208,10,4601,0,0,0.0,0,0,0,5101,0,0,0.0,0,0,0,170.0,2529.41,0.0,0.0,2699.41
+2018-2019,SCHOOLNUTRITIONPROGRAMCLAIMS,386,FORT BEND ISD,Educational Institution,Public,4,3,112,DULLES EL,79907.0,FORT BEND,FORT BEND,03/2019,683,335,45,303,16,2270,141.88,1651,204,415,16,6526,407.88,4064,544,1918,0,0,0.0,0,0,0,8796,0,0,0.0,0,0,0,4037.15,16151.54,0.0,0.0,20188.69
+2018-2019,SCHOOLNUTRITIONPROGRAMCLAIMS,521,GOOSE CREEK CISD,Educational Institution,Public,4,3,122,VICTORIA WALKER ELEMENTARY,101911.0,HARRIS,HARRIS,11/2018,872,403,52,417,16,7594,474.63,3879,527,3188,16,8481,530.06,4726,614,3141,16,46,2.88,46,0,0,16121,0,0,0.0,0,0,0,10259.02,18573.13,41.86,0.0,28874.01
+2018-2019,SCHOOLNUTRITIONPROGRAMCLAIMS,830,CONROE ISD,Educational Institution,Public,6,3,118,DAVID EL,170902.0,MONTGOMERY,MONTGOMERY,11/2018,664,48,15,601,17,441,25.94,140,5,296,17,2613,153.71,386,146,2081,0,0,0.0,0,0,0,3054,0,0,0.0,0,0,0,349.81,2556.67,0.0,0.0,2906.48
+2018-2019,SCHOOLNUTRITIONPROGRAMCLAIMS,869,CORPUS CHRISTI ISD,Educational Institution,Public,2,5,46,CUNNINGHAM MIDDLE AT SOUTH PARK,178904.0,NUECES,NUECES,04/2019,548,548,0,0,20,2044,102.2,2044,0,0,20,8326,416.3,8326,0,0,0,0,0.0,0,0,0,10370,0,0,0.0,0,0,0,4374.16,28225.14,0.0,0.0,32599.3
+2018-2019,SCHOOLNUTRITIONPROGRAMCLAIMS,306,LITTLE ELM ISD,Educational Institution,Public,11,2,103,BRENT ELEMENTARY,61914.0,DENTON,DENTON,04/2019,713,355,44,314,20,4425,221.25,3115,345,965,20,8316,415.8,5065,637,2614,7,321,45.86,321,0,0,13062,0,0,0.0,0,0,0,7600.05,19928.12,292.11,0.0,27820.28
+2018-2019,SCHOOLNUTRITIONPROGRAMCLAIMS,522,HOUSTON ISD,Educational Institution,Public,4,3,342,ENERGIZED FOR EXCELLENCE MIDDLE SCHOOL,101912.0,HARRIS,HARRIS,11/2018,575,575,0,0,17,4262,250.71,4262,0,0,19,10705,563.42,10705,0,0,0,0,0.0,0,0,0,14967,0,0,0.0,0,0,0,9120.68,36289.95,0.0,0.0,45410.63
+2018-2019,SCHOOLNUTRITIONPROGRAMCLAIMS,1068,AUSTIN ISD,Educational Institution,Public,13,4,107,BRENTWOOD EL,227901.0,TRAVIS,TRAVIS,05/2019,672,124,15,533,18,640,35.56,415,56,169,18,5179,287.72,1510,150,3519,0,0,0.0,0,0,0,5819,0,0,0.0,0,0,0,1043.53,6939.81,0.0,0.0,7983.34
+2018-2019,SCHOOLNUTRITIONPROGRAMCLAIMS,451,MARION ISD,Educational Institution,Public,20,4,101,NORMA KRUEGER EL,94904.0,GUADALUPE,GUADALUPE,10/2018,348,199,21,128,22,2638,119.91,1647,175,816,22,4780,217.27,2961,303,1516,0,0,0.0,0,0,0,7418,0,0,0.0,0,0,0,4099.54,11535.0,0.0,0.0,15634.54
+2018-2019,SCHOOLNUTRITIONPROGRAMCLAIMS,82,SAN ANTONIO ISD,Educational Institution,Public,20,4,164,SCHENCK EL,15907.0,BEXAR,BEXAR,12/2018,585,585,0,0,15,7786,519.07,7786,0,0,15,7520,501.33,7520,0,0,15,424,28.27,424,0,0,15730,0,0,0.0,0,0,0,16662.04,25492.8,385.84,0.0,42540.68
+
+Column profiling: 
+Column ClaimDate is a time column with temporal resolution in month. The temporal coverage is from 2018-07-31 to 2019-04-30. 
+Column ProgramYear is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column ReportType is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column CEID is a http://schema.org/Integer. There are 1230 distinct values. The range of values is from 0 to 1263.0. The semantic types are: http://schema.org/identifier. 
+Column CEName is a http://schema.org/Text. There are 1223 distinct values. The semantic types are: http://schema.org/Enumeration. 
+"
+"dataset13", "Dataset title: School Nutrition Programs - Meal Reimbursement Information - Program Year 2020-2021
+Dataset sample: 
+ProgramYear,ReportType,CEID,CEName,TypeOfAgency,TypeOfOrg,ESC,TDARegion,SiteID,SiteName,CountyDistrictCode,CECounty,SiteCounty,ClaimDate,EnrollmentQty,FreeEligQty,RedcEligQty,PaidEligQty,BreakfastDays,BreakfastTotal,BreakfastADP,BreakfastServedFree,BreakfastServedRedc,BreakfastServedPaid,LunchDays,LunchTotal,LunchADP,LunchServedFree,LunchServedRedc,LunchServedPaid,SnackDays,SnackTotal,SnackADP,SnacksServedFree,SnacksServedRedc,SnacksServedPaid,MilkDays,Milktotal,MilkADP,MilkServedFree,MilkServedReduced,MilkServedPaid,BreakfastReimbursement,LunchReimbursement,SnackReimbursement,MilkReimbursement,TotalReimbursement,TotalMeals_Snacks
+2020-2021,SCHOOLNUTRITIONPROGRAMCLAIMS,1064,KIPP TEXAS PUBLIC SCHOOLS,Educational Institution,Charter,13,4,13,KIPP Houston HS,227820.0,TRAVIS,HARRIS,09/01/2020,751,733,0,18,19,210,11.05,205,0,5,19,214,11.26,209,0,5,0,0,0.0,0,0,0,0,0,0.0,0,0,0,464.9,754.5,0.0,0.0,1219.4,424
+2020-2021,SCHOOLNUTRITIONPROGRAMCLAIMS,285,SUNNYVALE ISD,Educational Institution,Public,10,2,201,NEW INT,57919.0,DALLAS,DALLAS,01/01/2021,460,66,6,388,17,265,15.59,101,16,148,17,2096,123.29,538,35,1523,0,0,0.0,0,0,0,0,0,0.0,0,0,0,263.69,2646.54,0.0,0.0,2910.23,2361
+2020-2021,SCHOOLNUTRITIONPROGRAMCLAIMS,200,MCKINNEY ISD,Educational Institution,Public,10,2,105,BURKS EL,43907.0,COLLIN,COLLIN,10/01/2020,359,255,39,65,20,3607,180.35,2675,525,407,20,4257,212.85,3377,530,350,0,0,0.0,0,0,0,0,0,0.0,0,0,0,7204.74,13915.06,0.0,0.0,21119.8,7864
+2020-2021,SCHOOLNUTRITIONPROGRAMCLAIMS,622,GREENVILLE ISD,Educational Institution,Public,10,2,103,CROCKETT EL,116905.0,HUNT,HUNT,12/01/2020,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,14,1069,76.36,1069,0,0,0,0,0.0,0,0,0,0.0,0.0,1026.24,0.0,1026.24,1069
+2020-2021,SCHOOLNUTRITIONPROGRAMCLAIMS,1064,KIPP TEXAS PUBLIC SCHOOLS,Educational Institution,Charter,13,4,17,KIPP CONNECT HS,227820.0,TRAVIS,HARRIS,10/01/2020,461,450,0,11,20,150,7.5,146,0,4,20,379,18.95,370,0,9,0,0,0.0,0,0,0,0,0,0.0,0,0,0,331.24,1335.78,0.0,0.0,1667.02,529
+2020-2021,SCHOOLNUTRITIONPROGRAMCLAIMS,444,ANDERSON-SHIRO CONS ISD,Educational Institution,Public,6,3,101,ANDERSON-SHIRO ELEMENTARY,93901.0,GRIMES,GRIMES,08/01/2020,417,176,25,216,14,1041,74.36,731,88,222,14,1407,100.5,977,88,342,0,0,0.0,0,0,0,0,0,0.0,0,0,0,1895.58,3942.44,0.0,0.0,5838.02,2448
+2020-2021,SCHOOLNUTRITIONPROGRAMCLAIMS,1138,WICHITA FALLS ISD,Educational Institution,Public,9,2,118,JEFFERSON EL,243905.0,WICHITA,WICHITA,09/01/2020,407,195,31,181,13,3148,242.15,1467,273,1408,13,1754,134.92,1056,217,481,13,396,30.46,396,0,0,0,0,0.0,0,0,0,4301.06,4698.02,380.16,0.0,9379.24,5298
+2020-2021,SCHOOLNUTRITIONPROGRAMCLAIMS,654,BEAUMONT ISD,Educational Institution,Public,5,3,125,PIETZSCH/MACARTHUR,123910.0,JEFFERSON,JEFFERSON,02/01/2021,936,936,0,0,15,2951,196.73,2951,0,0,15,5514,367.6,5514,0,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,6669.26,19850.4,0.0,0.0,26519.66,8465
+2020-2021,SCHOOLNUTRITIONPROGRAMCLAIMS,30,MEDINA ISD,Educational Institution,Public,20,4,1,MEDINA SCHOOL,10901.0,BANDERA,BANDERA,01/01/2021,259,149,9,101,16,1018,63.63,854,11,153,16,2016,126.0,1559,59,398,0,0,0.0,0,0,0,0,0,0.0,0,0,0,2000.56,5968.36,0.0,0.0,7968.92,3034
+2020-2021,SCHOOLNUTRITIONPROGRAMCLAIMS,283,MESQUITE ISD,Educational Institution,Public,10,2,107,MOTLEY EL,57914.0,DALLAS,DALLAS,05/01/2021,275,208,29,38,18,1360,75.56,1008,144,208,18,3606,200.33,2950,305,351,0,0,0.0,0,0,0,0,0,0.0,0,0,0,2626.88,11743.42,0.0,0.0,14370.3,4966
+
+Column profiling: 
+Column ClaimDate is a time column with temporal resolution in month. The temporal coverage is from 2020-07-31 to 2021-05-31. 
+Column ProgramYear is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column ReportType is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column CEID is a http://schema.org/Integer. There are 1179 distinct values. The range of values is from 0 to 1285.0. The semantic types are: http://schema.org/identifier. 
+Column CEName is a http://schema.org/Text. There are 1172 distinct values. The semantic types are: http://schema.org/Enumeration. 
+"
+"dataset12", "Dataset title: School Nutrition Programs - Meal Reimbursement Information - Program Year 2021-2022
+Dataset sample: 
+ProgramYear,ReportType,CEID,CEName,TypeOfAgency,TypeOfOrg,ESC,TDARegion,SiteID,SiteName,COVIDMealSite,CountyDistrictCode,CECounty,SiteCounty,ClaimDate,EnrollmentQty,FreeEligQty,RedcEligQty,PaidEligQty,BreakfastDays,BreakfastTotal,BreakfastADP,BreakfastServedFree,BreakfastServedRedc,BreakfastServedPaid,LunchDays,LunchTotal,LunchADP,LunchServedFree,LunchServedRedc,LunchServedPaid,SnackDays,SnackTotal,SnackADP,SnacksServedFree,SnacksServedRedc,SnacksServedPaid,MilkDays,Milktotal,MilkADP,MilkServedFree,MilkServedReduced,MilkServedPaid,BreakfastReimbursement,LunchReimbursement,SnackReimbursement,MilkReimbursement,TotalReimbursement,TotalMealsSnacks
+2021-2022,SCHOOLNUTRITIONPROGRAMCLAIMS,1342,"DEPT OF JUVENILE SRVS SERVING COOKE, FANNIN, GRAYSON COUNTIES",Government Agency,RCCI,10,2,1,THE DEPARTMENT OF JUVENILE SERVICES - DETENTION,NO,091-,GRAYSON,GRAYSON,07/01/2021,14,14,0,0,31,384,12.39,384,0,0,31,375,12.1,375,0,0,31,377,12.16,377,0,0,0,0,0.0,0,0,0,902.4,1406.25,377.0,0.0,2685.65,1136
+2021-2022,SCHOOLNUTRITIONPROGRAMCLAIMS,575,WESLACO ISD,Educational Institution,Public,1,5,44,BEATRIZ G GARZA MIDDLE,NO,108-913,HIDALGO,HIDALGO,02/01/2022,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,14,398,28.43,398,0,0,0,0,0.0,0,0,0,0.0,0.0,398.0,0.0,398.0,398
+2021-2022,SCHOOLNUTRITIONPROGRAMCLAIMS,1123,UNITED ISD,Educational Institution,Public,1,5,44,SALVADOR GARCIA MIDDLE,NO,240-903,WEBB,WEBB,12/01/2021,414,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,13,440,33.85,440,0,0,0,0,0.0,0,0,0,0.0,0.0,440.0,0.0,440.0,440
+2021-2022,SCHOOLNUTRITIONPROGRAMCLAIMS,563,VANGUARD ACADEMY,Educational Institution,Charter,1,5,103,VANGUARD PICASSO,NO,108-808,HIDALGO,HIDALGO,09/01/2021,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,21,251,11.95,251,0,0,0,0,0.0,0,0,0,0.0,0.0,251.0,0.0,251.0,251
+2021-2022,SCHOOLNUTRITIONPROGRAMCLAIMS,562,IDEA ACADEMY,Educational Institution,Charter,1,5,25,IDEA JUDSON COLLEGE PREPARATORY,NO,108-807,HIDALGO,BEXAR,02/01/2022,660,608,0,52,17,8167,480.41,7519,0,648,17,9240,543.53,8506,0,734,0,0,0.0,0,0,0,0,0,0.0,0,0,0,17883.49,32220.46,0.0,0.0,50103.95,17407
+2021-2022,SCHOOLNUTRITIONPROGRAMCLAIMS,522,HOUSTON ISD,Educational Institution,Public,4,3,153,FONDREN EL,NO,101-912,HARRIS,HARRIS,02/01/2022,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,17,1305,76.76,1305,0,0,0,0,0.0,0,0,0,0.0,0.0,1305.0,0.0,1305.0,1305
+2021-2022,SCHOOLNUTRITIONPROGRAMCLAIMS,1040,BROWNFIELD ISD,Educational Institution,Public,17,1,102,OAK GROVE EL,NO,223-901,TERRY,TERRY,11/01/2021,666,666,0,0,15,8914,594.27,8914,0,0,15,8615,574.33,8615,0,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,20947.9,32306.25,0.0,0.0,53254.15,17529
+2021-2022,SCHOOLNUTRITIONPROGRAMCLAIMS,296,DENTON ISD,Educational Institution,Public,11,2,119,SAVANNAH EL,NO,061-901,DENTON,DENTON,09/01/2021,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,20,696,34.8,696,0,0,0,0,0.0,0,0,0,0.0,0.0,696.0,0.0,696.0,696
+2021-2022,SCHOOLNUTRITIONPROGRAMCLAIMS,33,ELGIN ISD,Educational Institution,Public,13,4,101,BOOKER T. WASHINGTON,NO,011-902,BASTROP,BASTROP,12/01/2021,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,11,840,76.36,840,0,0,0,0,0.0,0,0,0,0.0,0.0,840.0,0.0,840.0,840
+2021-2022,SCHOOLNUTRITIONPROGRAMCLAIMS,528,SPRING ISD,Educational Institution,Public,4,3,44,DUEITT MIDDLE,NO,101-919,HARRIS,HARRIS,05/01/2022,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0
+
+Column profiling: 
+Column ClaimDate is a time column with temporal resolution in month. The temporal coverage is from 2021-07-31 to 2022-05-31. 
+Column ProgramYear is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column ReportType is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column CEID is a http://schema.org/Integer. There are 461 distinct values. The range of values is from 0 to 1368.0. The semantic types are: http://schema.org/identifier. 
+Column CEName is a http://schema.org/Text. There are 455 distinct values. The semantic types are: http://schema.org/Enumeration. 
+"
+"dataset16", "Dataset title: Summer Meal Programs - Summer Food Service Program (SFSP) - Meal Count Information - Program Period 2019
+Dataset sample: 
+ProgramYear,ReportType,CEID,CEName,TypeOfAgency,TypeOfOrg,ESC,TDARegion,SiteID,SiteName,CountyDistrictCode,CECounty,SiteCounty,RuralOrUrbanCode,ClaimDate,CombinedClaim,BreakfastDays,Breakfast,SecondBreakfast,BreakfastTotal,AMSnackDays,AMSnack,SecondAMSnack,AMSnackTotal,LunchDays,Lunch,SecondLunch,LunchTotal,PMSnackDays,PMSnack,SecondPMSnack,PMSnackTotal,SupperDays,Supper,SecondSupper,SupperTotal
+2018-2019,SUMMERSFSPCLAIMS,6083,"""With Helping Hands"" serving nutritious meals",Private Non Profit Organization,Private Nonprofit,4,3,10,Settegast Heights Village,0,HARRIS,HARRIS,URBAN,June 2019,,0,0,0,0,0,0,0,0,20,1103,0,1103,0,0,0,0,0,0.0,0,0.0
+2018-2019,SUMMERSFSPCLAIMS,1534,THE HOUSTON FOOD BANK,Private Non Profit Organization,Private Nonprofit,4,3,1996,Willow Springs Apartment-Pasadena,101-,GALVESTON,HARRIS,URBAN,June 2019,,0,0,0,0,0,0,0,0,15,62,16,78,0,0,0,0,0,0.0,0,0.0
+2018-2019,SUMMERSFSPCLAIMS,1525,CITY OF HOUSTON,Government Agency,Unit of Government,4,3,1265,FREED COMMUNITY CENTER,101-,HARRIS,HARRIS,URBAN,July 2019,,0,0,0,0,0,0,0,0,20,619,0,619,20,626,0,626,0,0.0,0,0.0
+2018-2019,SUMMERSFSPCLAIMS,522,HOUSTON ISD,Educational Institution,School Food Authority,4,3,308,NORTH HOUSTON EARLY COLLEGE H S,101-912,HARRIS,HARRIS,URBAN,June 2019,,14,292,0,292,0,0,0,0,14,679,0,679,0,0,0,0,0,0.0,0,0.0
+2018-2019,SUMMERSFSPCLAIMS,4742,Be A Champion Inc.,Private Non Profit Organization,Private Nonprofit,4,3,1047,Be a Champion at New Hope United Church,0,HARRIS,BEXAR,URBAN,August 2019,,5,85,0,85,0,0,0,0,8,477,0,477,0,0,0,0,0,0.0,0,0.0
+2018-2019,SUMMERSFSPCLAIMS,123,BRYAN ISD,Educational Institution,School Food Authority,6,3,105,CROCKETT ELEMENTARY,021-902,BRAZOS,BRAZOS,URBAN,June 2019,,12,1625,0,1625,0,0,0,0,12,2532,0,2532,0,0,0,0,0,0.0,0,0.0
+2018-2019,SUMMERSFSPCLAIMS,1686,TARRANT AREA FOOD BANK,Private Non Profit Organization,Private Nonprofit,11,2,1433,Community Missionary Baptist Church (Freedom School),220-,TARRANT,TARRANT,URBAN,July 2019,,17,473,0,473,0,0,0,0,16,450,0,450,0,0,0,0,0,0.0,0,0.0
+2018-2019,SUMMERSFSPCLAIMS,3689,S. Tracy Howard Project,Private Non Profit Organization,Private Nonprofit,11,2,103,North Lakes Rec Center,0,DENTON,DENTON,URBAN,July 2019,,20,1089,0,1089,0,0,0,0,20,1405,1,1406,0,0,0,0,0,0.0,0,0.0
+2018-2019,SUMMERSFSPCLAIMS,5656,"Kidz Grub, Inc.",Private Non Profit Organization,Private Nonprofit,4,3,12,Quillian Center,0,HARRIS,HARRIS,URBAN,August 2019,,9,92,1,93,0,0,0,0,9,607,13,620,0,0,0,0,0,0.0,0,0.0
+2018-2019,SUMMERSFSPCLAIMS,1002,ROMA ISD,Educational Institution,School Food Authority,1,5,103,F J SCOTT EL,214-903,STARR,STARR,RURAL,June 2019,,16,2089,0,2089,0,0,0,0,16,2565,8,2573,0,0,0,0,0,0.0,0,0.0
+
+Column profiling: 
+Column ClaimDate is a time column with temporal resolution in month. The temporal coverage is from 2019-04-30 to 2019-07-31. 
+Column ProgramYear is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column ReportType is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column CEID is a http://schema.org/Integer. There are 291 distinct values. The range of values is from 0 to 6083.0. The semantic types are: http://schema.org/identifier. 
+Column CEName is a http://schema.org/Text. There are 291 distinct values. The semantic types are: http://schema.org/Enumeration. 
+"
+"dataset15", "Dataset title: School Nutrition Programs – Meal Reimbursement Information – Program Year 2017-2018
+Dataset sample: 
+ProgramYear,ReportType,CEID,CEName,CECounty,CountyDistrictCode,ESC,TDARegion,TypeOfAgency,TypeOfSNPOrg,SiteID,SiteName,SiteCounty,ClaimDate,EnrollmentQty,FreeEligibleQty,ReducedEligibleQty,PaidEligibleQty,BreakfastDays,BreakfastTotal,BreakfastADP,BreakfastServedFree,BreakfastServedReduced,BreakfastServedPaid,LunchDays,LunchTotal,LunchADP,LunchServedFree,LunchServedReduced,LunchServedPaid,SnackDays,SnackTotal,SnackADP,SnackServedFree,SnackServedReduced,SnackServedPaid,TotalMealsSnacks,MilkDays,Milktotal,MilkADP,MilkServedFree,MilkServedReduced,MilkServedPaid,BreakfastReimbursement,LunchReimbursement,SnackReimbursement,MilkReimbursement,TotalReimbursement
+2017-2018,SCHOOLNUTRITIONPROGRAMCLAIMS,206,BLUE RIDGE ISD,COLLIN,,10,2,Educational Institution,Public,41,BLUE RIDGE MIDDLE,COLLIN,03/01/2018,203,93,20,90,16,574,35.88,398,68,108,16,1984,124.0,1189,225,570,0,0,0.0,0,0,0,2558,0,0,0.0,0,0,0,985.94,4812.64,0.0,0.0,5798.58
+2017-2018,SCHOOLNUTRITIONPROGRAMCLAIMS,199,FRISCO ISD,COLLIN,,10,2,Educational Institution,Public,109,RUTH BORCHARDT ELEMENTARY,COLLIN,05/01/2018,765,56,5,704,21,380,18.1,220,2,158,21,5017,238.9,823,71,4123,0,0,0.0,0,0,0,5397,0,0,0.0,0,0,0,435.3,4438.37,0.0,0.0,4873.67
+2017-2018,SCHOOLNUTRITIONPROGRAMCLAIMS,616,SIERRA BLANCA ISD,HUDSPETH,,19,1,Educational Institution,Public,1,SIERRA BLANCA SCHOOL,HUDSPETH,08/01/2017,106,96,0,10,4,413,103.25,375,0,38,4,377,94.25,343,0,34,0,0,0.0,0,0,0,790,0,0,0.0,0,0,0,795.15,1148.59,0.0,0.0,1943.74
+2017-2018,SCHOOLNUTRITIONPROGRAMCLAIMS,85,NORTH EAST ISD,BEXAR,,20,4,Educational Institution,Public,141,STUEBING RANCH ELEMENTARY,BEXAR,09/01/2017,964,424,90,450,20,3979,198.95,2839,310,830,20,13016,650.8,6705,1330,4981,0,0,0.0,0,0,0,16995,0,0,0.0,0,0,0,6737.41,27746.12,0.0,0.0,34483.53
+2017-2018,SCHOOLNUTRITIONPROGRAMCLAIMS,1173,QUITMAN ISD,WOOD,,7,2,Educational Institution,Public,1,QUITMAN H S,WOOD,04/01/2018,303,144,18,141,19,1789,94.16,1402,143,244,19,2792,146.95,1969,213,610,0,0,0.0,0,0,0,4581,0,0,0.0,0,0,0,3259.35,7375.12,0.0,0.0,10634.47
+2017-2018,SCHOOLNUTRITIONPROGRAMCLAIMS,253,TRINITY BASIN PREPARATORY,DALLAS,,10,2,Educational Institution,Charter,102,TRINITY BASIN PREPARATORY-TENTHN STREET,DALLAS,05/01/2018,640,528,55,57,22,3646,165.73,3094,384,168,22,9938,451.73,8550,838,550,0,0,0.0,0,0,0,13584,0,0,0.0,0,0,0,7204.22,30953.58,0.0,0.0,38157.8
+2017-2018,SCHOOLNUTRITIONPROGRAMCLAIMS,136,EARLY ISD,BROWN,,15,1,Educational Institution,Public,102,EARLY PRIMARY,BROWN,06/01/2018,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0,0,0,16,781,48.81,781,0,0,781,0,0,0.0,0,0,0,0.0,0.0,687.28,0.0,687.28
+2017-2018,SCHOOLNUTRITIONPROGRAMCLAIMS,90,NORTHSIDE ISD-SAN ANTONIO,BEXAR,,20,4,Educational Institution,Public,16,SANDRA DAY O'CONNOR H S,BEXAR,01/01/2018,3323,606,159,2558,19,4653,244.89,2706,427,1520,19,15485,815.0,5322,1176,8987,0,0,0.0,0,0,0,20138,0,0,0.0,0,0,0,6875.87,24233.21,0.0,0.0,31109.08
+2017-2018,SCHOOLNUTRITIONPROGRAMCLAIMS,724,GIDDINGS ISD,LEE,,13,4,Educational Institution,Public,1,GIDDINGS H S,LEE,04/01/2018,596,311,37,248,21,3549,169.0,2924,191,434,21,4789,228.05,3349,319,1121,0,0,0.0,0,0,0,8338,0,0,0.0,0,0,0,6583.25,12450.67,0.0,0.0,19033.92
+2017-2018,SCHOOLNUTRITIONPROGRAMCLAIMS,209,WELLINGTON ISD,COLLINGSWORTH,,16,1,Educational Institution,Public,41,WELLINGTON J H,COLLINGSWORTH,05/01/2018,120,67,11,42,13,96,7.38,86,10,0,13,481,37.0,356,47,78,0,0,0.0,0,0,0,577,0,0,0.0,0,0,0,197.64,1345.55,0.0,0.0,1543.19
+
+Column profiling: 
+Column ClaimDate is a time column with temporal resolution in month. The temporal coverage is from 2017-07-31 to 2018-05-31. 
+Column ProgramYear is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column ReportType is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column CEID is a http://schema.org/Integer. There are 1245 distinct values. The range of values is from 0 to 1283.0. The semantic types are: http://schema.org/identifier. 
+Column CEName is a http://schema.org/Text. There are 1238 distinct values. The semantic types are: http://schema.org/Enumeration. 
+"
+"dataset14", "Dataset title: School Nutrition Programs - Meal Reimbursement Information - Program Year 2022-2023
+Dataset sample: 
+ProgramYear,ReportType,CEID,CEName,TypeOfAgency,TypeOfOrg,ESC,TDARegion,SiteID,SiteName,CountyDistrictCode,CECounty,SiteCounty,ClaimDate,EnrollmentQty,FreeEligQty,RedcEligQty,PaidEligQty,BreakfastDays,BreakfastTotal,BreakfastADP,BreakfastServedFree,BreakfastServedRedc,BreakfastServedPaid,LunchDays,LunchTotal,LunchADP,LunchServedFree,LunchServedRedc,LunchServedPaid,SnackDays,SnackTotal,SnackADP,SnacksServedFree,SnacksServedRedc,SnacksServedPaid,TotalMeals_Snacks,MilkDays,Milktotal,MilkADP,MilkServedFree,MilkServedReduced,MilkServedPaid,BreakfastReimbursement,LunchReimbursement,SnackReimbursement,MilkReimbursement,TotalReimbursement
+2022-2023,SCHOOLNUTRITIONPROGRAMCLAIMS,283,MESQUITE ISD,Educational Institution,Public,10,2,113,TOSCH EL,057-914,DALLAS,DALLAS,05/01/2023,617,593,0,24,19,2711,142.68,2607,0,104,18,9252,514.0,8897,0,355,4,390,97.5,390,0,0,12353,0,0,0,0,0,0,7012.69,39722.56,421.2,0,47156.45
+2022-2023,SCHOOLNUTRITIONPROGRAMCLAIMS,297,LEWISVILLE ISD,Educational Institution,Public,11,2,1,LEWISVILLE H S,061-902,DENTON,DENTON,05/01/2023,1875,1016,164,695,20,3940,197.0,3228,368,344,21,10946,521.24,7946,1047,1953,0,0,0.0,0,0,0,14886,0,0,0,0,0,0,9662.92,40900.38,0.0,0,50563.3
+2022-2023,SCHOOLNUTRITIONPROGRAMCLAIMS,349,YSLETA ISD,Educational Institution,Public,19,1,136,DESERTAIRE EL,071-905,EL PASO,EL PASO,04/01/2023,604,587,0,17,19,8897,468.26,8645,0,252,19,8586,451.89,8343,0,243,0,0,0.0,0,0,0,17483,0,0,0,0,0,0,23208.15,37170.9,0.0,0,60379.05
+2022-2023,SCHOOLNUTRITIONPROGRAMCLAIMS,708,NORTH LAMAR ISD,Educational Institution,Public,8,2,103,CECIL EVERETT EL,139-911,LAMAR,LAMAR,12/01/2022,294,172,15,107,12,907,75.58,680,79,148,12,1728,144.0,1181,93,454,0,0,0.0,0,0,0,2635,0,0,0,0,0,0,2076.83,6001.6,0.0,0,8078.43
+2022-2023,SCHOOLNUTRITIONPROGRAMCLAIMS,90,NORTHSIDE ISD-SAN ANTONIO,Educational Institution,Public,20,4,236,LOS REYES ELEM,015-915,BEXAR,BEXAR,08/01/2022,513,97,11,405,8,450,56.25,108,16,326,8,1425,178.13,311,35,1079,0,0,0.0,0,0,0,1875,0,0,0,0,0,0,438.44,2457.51,0.0,0,2895.95
+2022-2023,SCHOOLNUTRITIONPROGRAMCLAIMS,944,ROCKWALL ISD,Educational Institution,Public,10,2,43,MAURINE CAIN MIDDLE SCHOOL,199-901,ROCKWALL,ROCKWALL,08/01/2022,1117,282,55,780,13,773,59.46,453,51,269,13,6434,494.92,2382,404,3648,0,0,0.0,0,0,0,7207,0,0,0,0,0,0,1464.88,15354.14,0.0,0,16819.02
+2022-2023,SCHOOLNUTRITIONPROGRAMCLAIMS,751,LUBBOCK ISD,Educational Institution,Public,17,1,162,HARDWICK EL,152-901,LUBBOCK,LUBBOCK,02/01/2023,552,520,0,32,17,6466,380.35,6090,0,376,17,7321,430.65,6895,0,426,0,0,0.0,0,0,0,13787,0,0,0,0,0,0,16448.3,30915.47,0.0,0,47363.77
+2022-2023,SCHOOLNUTRITIONPROGRAMCLAIMS,280,GRAND PRAIRIE ISD,Educational Institution,Public,10,2,137,WILLIAM B TRAVIS WORLD LANGUAGE ACADEMY,057-910,DALLAS,DALLAS,01/01/2023,664,525,93,46,18,5514,306.33,4447,678,389,18,8999,499.94,7323,1156,520,0,0,0.0,0,0,0,14513,0,0,0,0,0,0,13674.85,37551.97,0.0,0,51226.82
+2022-2023,SCHOOLNUTRITIONPROGRAMCLAIMS,151,BROWNSVILLE ISD,Educational Institution,Public,1,5,134,HUBERT R HUDSON EL,031-901,CAMERON,CAMERON,04/01/2023,684,684,0,0,19,9842,518.0,9842,0,0,19,10870,572.11,10870,0,0,0,0,0.0,0,0,0,20712,0,0,0,0,0,0,26278.14,48154.1,0.0,0,74432.24
+2022-2023,SCHOOLNUTRITIONPROGRAMCLAIMS,845,WODEN ISD,Educational Institution,Public,7,3,101,WODEN EL,174-906,NACOGDOCHES,NACOGDOCHES,09/01/2022,459,263,37,159,21,3683,175.38,2835,254,594,21,6654,316.86,4625,586,1443,0,0,0.0,0,0,0,10337,0,0,0,0,0,0,8468.43,24105.74,0.0,0,32574.17
+
+Column profiling: 
+Column ClaimDate is a time column with temporal resolution in month. The temporal coverage is from 2022-07-31 to 2023-05-31. 
+Column ProgramYear is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column ReportType is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column CEID is a http://schema.org/Integer. There are 1205 distinct values. The range of values is from 0 to 1225.0. The semantic types are: http://schema.org/identifier. 
+Column CEName is a http://schema.org/Text. There are 1197 distinct values. The semantic types are: http://schema.org/Enumeration. 
+"
+"dataset8", "Dataset title: VDOE Summer Food Service Program Participation - All Meal Types - Jun-Aug-2019
+Dataset sample: 
+Program Year,Program,SFA ID,SFA Name,SiteNbr,SiteName,Meal Type,Claim Date,Total Meals Served
+2018 - 2019,Summer Food Service Program,4126.0,The Boys & Girls Club of Central Virginia,4007.0,James River,3. Lunch,July 2019,1558
+2018 - 2019,Summer Food Service Program,118.0,Norfolk City Public Schools,4014.0,Campostella Rec Ctr,1. Breakfast,June 2019,102
+2018 - 2019,Summer Food Service Program,29.0,Fairfax County Public Schools,1750.0,QUANDER ROAD SCHOOL,1. Breakfast,July 2019,133
+2018 - 2019,Summer Food Service Program,58.0,Mecklenburg County Public Schools,1020.0,LACROSSE ELEM,3. Lunch,July 2019,100
+2018 - 2019,Summer Food Service Program,117.0,Newport News City Public Schools,1405.0,ACHIEVABLE DREAM MIDDLE/HIGH,3. Lunch,July 2019,4768
+2018 - 2019,Summer Food Service Program,4106.0,Boys & Girls Club of the Virginia Peninsula,4108.0,Marshall Courts,4. PM Snack,August 2019,819
+2018 - 2019,Summer Food Service Program,4110.0,City of Alexandria,4001.0,Charles Houston Recreation,4. PM Snack,June 2019,395
+2018 - 2019,Seamless Summer Option,123.0,Richmond City Public Schools,1100.0,BROAD ROCK ELEM,3. Lunch,June 2019,1030
+2018 - 2019,Summer Food Service Program,136.0,Chesapeake City Public Schools,80.0,OSCAR F SMITH HIGH,3. Lunch,June 2019,1806
+2018 - 2019,Summer Food Service Program,4124.0,Richmond Dept of Parks and Recreation,4038.0,New Birth Christian Academy,3. Lunch,June 2019,180
+
+Column profiling: 
+Column Claim Date is a time column with temporal resolution in month. The temporal coverage is from 2019-05-31 to 2019-07-31. 
+Column Program Year is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column Program is a http://schema.org/Text. The semantic types are: http://schema.org/Text. 
+Column SFA ID is a http://schema.org/Integer. There are 148 distinct values. The range of values is from 0 to 4166.0. The semantic types are: http://schema.org/identifier. 
+Column SFA Name is a http://schema.org/Text. The semantic types are: http://schema.org/Text. 
+"
+"dataset9", "Dataset title: 2021-2022 School Nutrition Program Meal Count - TDA F&N Dashboard
+Dataset sample: 
+CESiteID,ProgramYear,ReportType,CEID,CEName,TypeOfAgency,TypeOfOrg,ESC,TDARegion,SiteID,SiteName,COVIDMealSite,CountyDistrictCode,CECounty,SiteCounty,ClaimDate,BreakfastDays,BreakfastTotal,BreakfastADP,LunchDays,LunchTotal,LunchADP,SnackDays,SnackTotal,SnackADP,TotalMeals_Snacks
+00522-0354,2021-2022,SCHOOL_NUTRITION_PROGRAM_MEALS,522,HOUSTON ISD,Educational Institution,Public,4,3,354,GABRIELA MISTRAL CENTER FOR EARLY CHILDHOOD,NO,101-912,HARRIS,HARRIS,10/01/2021,0,0,0.0,0,0,0.0,13,154,11.85,154
+00161-0103,2021-2022,SCHOOL_NUTRITION_PROGRAM_MEALS,161,PITTSBURG ISD,Educational Institution,Public,8,2,103,PITTSBURG ELEMENTARY,NO,032-902,CAMP,CAMP,03/01/2022,0,0,0.0,0,0,0.0,17,440,25.88,440
+00024-0005,2021-2022,SCHOOL_NUTRITION_PROGRAM_MEALS,24,PLEASANTON ISD,Educational Institution,Public,20,4,5,SCHOOL OF CHOICE,NO,007-905,ATASCOSA,ATASCOSA,02/01/2022,18,36,2.0,18,55,3.06,0,0,0.0,91
+01183-0101,2021-2022,SCHOOL_NUTRITION_PROGRAM_MEALS,1183,CRYSTAL CITY ISD,Educational Institution,Public,20,4,101,DR TOMAS RIVERA EL,NO,254-901,ZAVALA,ZAVALA,01/01/2022,18,1603,89.06,18,1415,78.61,0,0,0.0,3018
+01020-0226,2021-2022,SCHOOL_NUTRITION_PROGRAM_MEALS,1020,FORT WORTH ISD,Educational Institution,Public,11,2,226,SEMINARY HILLS ELEMENTARY,NO,220-905,TARRANT,TARRANT,10/01/2021,0,0,0.0,0,0,0.0,15,386,25.73,386
+00562-2206,2021-2022,SCHOOL_NUTRITION_PROGRAM_MEALS,562,IDEA ACADEMY,Educational Institution,Charter,1,5,2206,IDEA Southeast College Preparatory,NO,108-807,HIDALGO,TARRANT,10/01/2021,19,996,52.42,19,1868,98.32,0,0,0.0,2864
+00191-0102,2021-2022,SCHOOL_NUTRITION_PROGRAM_MEALS,191,COLEMAN ISD,Educational Institution,Public,15,1,102,COLEMAN EL,NO,042-901,COLEMAN,COLEMAN,12/01/2021,0,0,0.0,0,0,0.0,9,315,35.0,315
+00562-0023,2021-2022,SCHOOL_NUTRITION_PROGRAM_MEALS,562,IDEA ACADEMY,Educational Institution,Charter,1,5,23,IDEA WALZEM COLLEGE PREPARATORY,NO,108-807,HIDALGO,BEXAR,01/01/2022,18,8692,482.89,18,8429,468.28,0,0,0.0,17121
+00522-0340,2021-2022,SCHOOL_NUTRITION_PROGRAM_MEALS,522,HOUSTON ISD,Educational Institution,Public,4,3,340,LAS AMERICAS,NO,101-912,HARRIS,HARRIS,02/01/2022,0,0,0.0,0,0,0.0,0,0,0.0,0
+00957-0104,2021-2022,SCHOOL_NUTRITION_PROGRAM_MEALS,957,WEST RUSK ISD,Educational Institution,Public,7,2,104,WEST RUSK INTERMEDIATE,NO,201-914,RUSK,RUSK,04/01/2022,0,0,0.0,0,0,0.0,15,749,49.93,749
+
+Column profiling: 
+Column ClaimDate is a time column with temporal resolution in month. The temporal coverage is from 2021-07-31 to 2022-05-31. 
+Column CESiteID is a http://schema.org/Text. There are 2630 distinct values. 
+Column ProgramYear is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column ReportType is a http://schema.org/Text. There are 1 distinct values. The semantic types are: http://schema.org/Enumeration. 
+Column CEID is a http://schema.org/Integer. There are 461 distinct values. The range of values is from 0 to 1368.0. The semantic types are: http://schema.org/identifier. 
+"
